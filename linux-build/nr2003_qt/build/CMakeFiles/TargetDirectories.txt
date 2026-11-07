@@ -1,0 +1,5 @@
+/mnt/3t/apps/nr2003_prog/telemetry_linux/linux-build/nr2003_qt/build/CMakeFiles/nr2003_qt.dir
+/mnt/3t/apps/nr2003_prog/telemetry_linux/linux-build/nr2003_qt/build/CMakeFiles/edit_cache.dir
+/mnt/3t/apps/nr2003_prog/telemetry_linux/linux-build/nr2003_qt/build/CMakeFiles/rebuild_cache.dir
+/mnt/3t/apps/nr2003_prog/telemetry_linux/linux-build/nr2003_qt/build/CMakeFiles/nr2003_qt_autogen_timestamp_deps.dir
+/mnt/3t/apps/nr2003_prog/telemetry_linux/linux-build/nr2003_qt/build/CMakeFiles/nr2003_qt_autogen.dir

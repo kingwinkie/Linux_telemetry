@@ -1,0 +1,14 @@
+?AppBegin@PapyTelem@@YA_NPBD0@Z __ZN9PapyTelem8AppBeginEPKcS1_
+?AppBegunQ@PapyTelem@@YA_NXZ __ZN9PapyTelem8AppBegunQEv
+?AppCheckIfSimActiveQ@PapyTelem@@YA_NXZ __ZN9PapyTelem20AppCheckIfSimActiveQEv
+?AppEnd@PapyTelem@@YAXXZ __ZN9PapyTelem6AppEndEv
+?AppClearSample@PapyTelem@@YAXXZ __ZN9PapyTelem14AppClearSampleEv
+?AppCheckIfSimDataOverrunQ@PapyTelem@@YA_NXZ __ZN9PapyTelem25AppCheckIfSimDataOverrunQEv
+?AppClearSimDataOverrun@PapyTelem@@YAXXZ __ZN9PapyTelem22AppClearSimDataOverrunEv
+?AppClearSimData@PapyTelem@@YAXW4eSimDataType@1@@Z __ZN9PapyTelem15AppClearSimDataENS_12eSimDataTypeE
+?AppEnableSampling@PapyTelem@@YA_N_N@Z __ZN9PapyTelem17AppEnableSamplingEb
+?AppGetSimData@PapyTelem@@YAPBXW4eSimDataType@1@@Z __ZN9PapyTelem13AppGetSimDataENS_12eSimDataTypeE
+?AppGetSimDataSize@PapyTelem@@YAHW4eSimDataType@1@@Z __ZN9PapyTelem17AppGetSimDataSizeENS_12eSimDataTypeE
+?AppRequestDataAtPhysicsRate@PapyTelem@@YA_N_N@Z __ZN9PapyTelem27AppRequestDataAtPhysicsRateEb
+?AppRequestDataItems@PapyTelem@@YA_NHPBW4eSimDataType@1@@Z __ZN9PapyTelem19AppRequestDataItemsEiPKNS_12eSimDataTypeE
+?AppWaitForNewSample@PapyTelem@@YA_NPAW4eSimDataType@1@H@Z __ZN9PapyTelem19AppWaitForNewSampleEPNS_12eSimDataTypeEi

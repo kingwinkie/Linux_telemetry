@@ -1,0 +1,1521 @@
+Address,Type,Value,Original,Label,Module,ID,Field,Series
+&H2EE57D,Sing,3400.5,3400.5,Net Weight (lbs),Chassis,,,cts
+&H2EE5AD,Sing,3300.5,3300.5,Net Weight (lbs),Chassis,,,gns
+&H2EE5D9,Sing,2600.5,2600.5,Net Weight (lbs),Chassis,,,pta
+&H2EE579,Sing,5000,3600,Gross Weight (lbs),Chassis,,,cts
+&H2EE5A9,Sing,5000,3500,Gross Weight (lbs),Chassis,,,gns
+&H2EE5D5,Sing,5000,2800,Gross Weight (lbs),Chassis,,,pta
+&H2C1ED,Sing,0.30000001192092896,0.3,???,Chassis,,,cup
+&H2C6CD,Sing,0.30000001192092896,0.3,???,Chassis,,,cup
+&H2CBAD,Sing,0.30000001192092896,0.3,???,Chassis,,,cup
+&H2D08D,Sing,0.30000001192092896,0.3,???,Chassis,,,cup
+&H2D568,Sing,0.30000001192092896,0.3,???,Chassis,,,cup
+&H2DA35,Sing,0.30000001192092896,0.3,???,Chassis,,,cup
+&H2DF0D,Sing,0.30000001192092896,0.3,???,Chassis,,,gns
+&H2E3ED,Sing,0.30000001192092896,0.3,???,Chassis,,,gns
+&H2E8CD,Sing,0.30000001192092896,0.3,???,Chassis,,,gns
+&H2EDAD,Sing,0.30000001192092896,0.3,???,Chassis,,,gns
+&H2F288,Sing,0.30000001192092896,0.3,???,Chassis,,,gns
+&H2F755,Sing,0.30000001192092896,0.3,???,Chassis,,,gns
+&H2FC2D,Sing,0.30000001192092896,0.3,???,Chassis,,,cts
+&H3011D,Sing,0.30000001192092896,0.3,???,Chassis,,,cts
+&H305FD,Sing,0.30000001192092896,0.3,???,Chassis,,,cts
+&H30AD8,Sing,0.30000001192092896,0.3,???,Chassis,,,cts
+&H30FB5,Sing,0.30000001192092896,0.3,???,Chassis,,,cts
+&H3149D,Sing,0.22499999403953552,0.225,???,Chassis,,,pta
+&H3197D,Sing,0.22499999403953552,0.225,???,Chassis,,,pta
+&H31E5D,Sing,0.22499999403953552,0.225,???,Chassis,,,pta
+&H32338,Sing,0.22499999403953552,0.225,???,Chassis,,,pta
+&H32818,Sing,0.22499999403953552,0.225,???,Chassis,,,pta
+&H2C1F7,Sing,1.5640000104904175,1.564,???,Chassis,,,cup
+&H2C6D7,Sing,1.5640000104904175,1.564,???,Chassis,,,cup
+&H2CBB7,Sing,1.5640000104904175,1.564,???,Chassis,,,cup
+&H2D097,Sing,1.5640000104904175,1.564,???,Chassis,,,cup
+&H2D572,Sing,1.5640000104904175,1.564,???,Chassis,,,cup
+&H2DA54,Sing,1.5640000104904175,1.564,???,Chassis,,,cup
+&H2DF17,Sing,1.5640000104904175,1.564,???,Chassis,,,gns
+&H2E3F7,Sing,1.5640000104904175,1.564,???,Chassis,,,gns
+&H2E8D7,Sing,1.5640000104904175,1.564,???,Chassis,,,gns
+&H2EDB7,Sing,1.5640000104904175,1.564,???,Chassis,,,gns
+&H2F292,Sing,1.5640000104904175,1.564,???,Chassis,,,gns
+&H2F774,Sing,1.5640000104904175,1.564,???,Chassis,,,gns
+&H2FC37,Sing,1.5640000104904175,1.564,???,Chassis,,,cts
+&H30127,Sing,1.5640000104904175,1.564,???,Chassis,,,cts
+&H30607,Sing,1.5640000104904175,1.564,???,Chassis,,,cts
+&H30AE2,Sing,1.5640000104904175,1.564,???,Chassis,,,cts
+&H30FD4,Sing,1.5640000104904175,1.564,???,Chassis,,,cts
+&H314A7,Sing,1.2730000019073486,1.273,???,Chassis,,,pta
+&H31987,Sing,1.2730000019073486,1.273,???,Chassis,,,pta
+&H31E67,Sing,1.2730000019073486,1.273,???,Chassis,,,pta
+&H32357,Sing,1.2730000019073486,1.273,???,Chassis,,,pta
+&H32837,Sing,1.2730000019073486,1.273,???,Chassis,,,pta
+&H2C207,Sing,1.7170000076293945,1.717,???,Chassis,,,cup
+&H2C6E7,Sing,1.7170000076293945,1.717,???,Chassis,,,cup
+&H2CBC7,Sing,1.7170000076293945,1.717,???,Chassis,,,cup
+&H2D0A7,Sing,1.7170000076293945,1.717,???,Chassis,,,cup
+&H2D57C,Sing,1.7170000076293945,1.717,???,Chassis,,,cup
+&H2DA5E,Sing,1.7170000076293945,1.717,???,Chassis,,,cup
+&H2DF27,Sing,1.7170000076293945,1.717,???,Chassis,,,gns
+&H2E407,Sing,1.7170000076293945,1.717,???,Chassis,,,gns
+&H2E8E7,Sing,1.7170000076293945,1.717,???,Chassis,,,gns
+&H2EDC7,Sing,1.7170000076293945,1.717,???,Chassis,,,gns
+&H2F29C,Sing,1.7170000076293945,1.717,???,Chassis,,,gns
+&H2F77E,Sing,1.7170000076293945,1.717,???,Chassis,,,gns
+&H2FC47,Sing,1.7170000076293945,1.717,???,Chassis,,,cts
+&H30137,Sing,1.7170000076293945,1.717,???,Chassis,,,cts
+&H30617,Sing,1.7170000076293945,1.717,???,Chassis,,,cts
+&H30AEC,Sing,1.7170000076293945,1.717,???,Chassis,,,cts
+&H30FDE,Sing,1.7170000076293945,1.717,???,Chassis,,,cts
+&H314B7,Sing,1.3869999647140503,1.387,???,Chassis,,,pta
+&H31997,Sing,1.3869999647140503,1.387,???,Chassis,,,pta
+&H31E77,Sing,1.3869999647140503,1.387,???,Chassis,,,pta
+&H32361,Sing,1.3869999647140503,1.387,???,Chassis,,,pta
+&H32841,Sing,1.3869999647140503,1.387,???,Chassis,,,pta
+&H2C211,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cup
+&H2C6F1,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cup
+&H2CBD1,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cup
+&H2D0B1,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cup
+&H2D58C,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cup
+&H2DA68,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cup
+&H2DF31,Sing,0.0,0,??? Front Weight (kg),Chassis,,,gns
+&H2E411,Sing,0.0,0,??? Front Weight (kg),Chassis,,,gns
+&H2E8F1,Sing,0.0,0,??? Front Weight (kg),Chassis,,,gns
+&H2EDD1,Sing,0.0,0,??? Front Weight (kg),Chassis,,,gns
+&H2F2AC,Sing,0.0,0,??? Front Weight (kg),Chassis,,,gns
+&H2F788,Sing,0.0,0,??? Front Weight (kg),Chassis,,,gns
+&H2FC51,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cts
+&H30141,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cts
+&H30621,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cts
+&H30AFC,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cts
+&H30FE8,Sing,0.0,0,??? Front Weight (kg),Chassis,,,cts
+&H314C1,Sing,0.0,0,??? Front Weight (kg),Chassis,,,pta
+&H319A1,Sing,0.0,0,??? Front Weight (kg),Chassis,,,pta
+&H31E81,Sing,0.0,0,??? Front Weight (kg),Chassis,,,pta
+&H3236B,Sing,0.0,0,??? Front Weight (kg),Chassis,,,pta
+&H3284B,Sing,0.0,0,??? Front Weight (kg),Chassis,,,pta
+&H2C21B,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cup
+&H2C6FB,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cup
+&H2CBDB,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cup
+&H2D0BB,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cup
+&H2D596,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cup
+&H2DA78,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cup
+&H2DF3B,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,gns
+&H2E41B,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,gns
+&H2E8FB,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,gns
+&H2EDDB,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,gns
+&H2F2B6,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,gns
+&H2F798,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,gns
+&H2FC5B,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cts
+&H3014B,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cts
+&H3062B,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cts
+&H30B06,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cts
+&H30FF8,Sing,67.30000305175781,67.3,??? Rear Weight (kg),Chassis,,,cts
+&H314CB,Sing,50.0,50,??? Rear Weight (kg),Chassis,,,pta
+&H319AB,Sing,50.0,50,??? Rear Weight (kg),Chassis,,,pta
+&H31E8B,Sing,50.0,50,??? Rear Weight (kg),Chassis,,,pta
+&H3237B,Sing,50.0,50,??? Rear Weight (kg),Chassis,,,pta
+&H3285B,Sing,50.0,50,??? Rear Weight (kg),Chassis,,,pta
+&H2EE581,Sing,22.0,22,Fuel - cup/gns Frontal Area,Chassis,,,all
+&H2EE585,Sing,13.5,13.5,cup plate fuel,Chassis,,,cup
+&H2C225,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2C705,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2CBE5,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2D0C5,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2D5A0,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2DA82,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2DF45,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2E425,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2E905,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2EDE5,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2F2C0,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2F7A2,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2FC65,Sing,0.10000000149011612,0.1,???,Chassis,,,cts
+&H30155,Sing,0.10000000149011612,0.1,???,Chassis,,,cts
+&H30635,Sing,0.10000000149011612,0.1,???,Chassis,,,cts
+&H30B10,Sing,0.10000000149011612,0.1,???,Chassis,,,cts
+&H31002,Sing,0.10000000149011612,0.1,???,Chassis,,,cts
+&H314D5,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H319B5,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H31E95,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H32385,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H32865,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H2C235,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cup
+&H2C715,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cup
+&H2CBF5,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cup
+&H2D0D5,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cup
+&H2D5AA,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cup
+&H2DA8C,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cup
+&H2DF55,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,gns
+&H2E435,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,gns
+&H2E915,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,gns
+&H2EDF5,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,gns
+&H2F2CA,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,gns
+&H2F7AC,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,gns
+&H2FC75,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cts
+&H30165,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cts
+&H30645,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cts
+&H30B1A,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cts
+&H3100C,Sing,-1.9500000476837158,-1.95,??? Fuel Tank Location,Chassis,,,cts
+&H314E5,Sing,-1.600000023841858,-1.6,??? Fuel Tank Location,Chassis,,,pta
+&H319C5,Sing,-1.600000023841858,-1.6,??? Fuel Tank Location,Chassis,,,pta
+&H31EA5,Sing,-1.600000023841858,-1.6,??? Fuel Tank Location,Chassis,,,pta
+&H3238F,Sing,-1.600000023841858,-1.6,??? Fuel Tank Location,Chassis,,,pta
+&H3286F,Sing,-1.600000023841858,-1.6,??? Fuel Tank Location,Chassis,,,pta
+&H2C23F,Sing,0.0,0,???,Chassis,,,cup
+&H2C71F,Sing,0.0,0,???,Chassis,,,cup
+&H2CBFF,Sing,0.0,0,???,Chassis,,,cup
+&H2D0DF,Sing,0.0,0,???,Chassis,,,cup
+&H2D5BA,Sing,0.0,0,???,Chassis,,,cup
+&H2DA96,Sing,0.0,0,???,Chassis,,,cup
+&H2DF5F,Sing,0.0,0,???,Chassis,,,gns
+&H2E43F,Sing,0.0,0,???,Chassis,,,gns
+&H2E91F,Sing,0.0,0,???,Chassis,,,gns
+&H2EDFF,Sing,0.0,0,???,Chassis,,,gns
+&H2F2DA,Sing,0.0,0,???,Chassis,,,gns
+&H2F7B6,Sing,0.0,0,???,Chassis,,,gns
+&H2FC7F,Sing,0.0,0,???,Chassis,,,cts
+&H3016F,Sing,0.0,0,???,Chassis,,,cts
+&H3064F,Sing,0.0,0,???,Chassis,,,cts
+&H30B2A,Sing,0.0,0,???,Chassis,,,cts
+&H31016,Sing,0.0,0,???,Chassis,,,cts
+&H314EF,Sing,0.0,0,???,Chassis,,,pta
+&H319CF,Sing,0.0,0,???,Chassis,,,pta
+&H31EAF,Sing,0.0,0,???,Chassis,,,pta
+&H32399,Sing,0.0,0,???,Chassis,,,pta
+&H32879,Sing,0.0,0,???,Chassis,,,pta
+&H2C249,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cup
+&H2C729,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cup
+&H2CC09,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cup
+&H2D0E9,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cup
+&H2D5C4,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cup
+&H2DAA0,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cup
+&H2DF69,Sing,-0.05000000074505806,-0.05,???,Chassis,,,gns
+&H2E449,Sing,-0.05000000074505806,-0.05,???,Chassis,,,gns
+&H2E929,Sing,-0.05000000074505806,-0.05,???,Chassis,,,gns
+&H2EE09,Sing,-0.05000000074505806,-0.05,???,Chassis,,,gns
+&H2F2E4,Sing,-0.05000000074505806,-0.05,???,Chassis,,,gns
+&H2F7C0,Sing,-0.05000000074505806,-0.05,???,Chassis,,,gns
+&H2FC89,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cts
+&H30179,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cts
+&H30659,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cts
+&H30B34,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cts
+&H31020,Sing,-0.05000000074505806,-0.05,???,Chassis,,,cts
+&H314F9,Sing,-0.05000000074505806,-0.05,???,Chassis,,,pta
+&H319D9,Sing,-0.05000000074505806,-0.05,???,Chassis,,,pta
+&H31EB9,Sing,-0.05000000074505806,-0.05,???,Chassis,,,pta
+&H323A3,Sing,-0.05000000074505806,-0.05,???,Chassis,,,pta
+&H32883,Sing,-0.05000000074505806,-0.05,???,Chassis,,,pta
+&H2EE575,Sing,110.0,110,Wheelbase (in),Chassis,,,cup
+&H2EE5A5,Sing,105.0,105,Wheelbase (in),Chassis,,,gns
+&H2EE5C1,Sing,112.0,112,Wheelbase (in),Chassis,,,cts
+&H2EE5D1,Sing,98.0,98,Wheelbase (in),Chassis,,,pta
+&H2EE571,Sing,59.5,59.5,F Track (in),Chassis,,,cup
+&H2EE5BD,Sing,60.625,60.625,F Track (in),Chassis,,,cts
+&H2EE5CD,Sing,64.0,64,F Track (in),Chassis,,,pta
+&H2EE591,Sing,60.5,60.5,R Track (in),Chassis,,,cts
+&H2EE5C9,Sing,63.0,63,R Track (in),Chassis,,,pta
+&H2C253,Sing,5.0,5,???,Chassis,,,cup
+&H2C733,Sing,5.0,5,???,Chassis,,,cup
+&H2CC13,Sing,5.0,5,???,Chassis,,,cup
+&H2D0F3,Sing,5.0,5,???,Chassis,,,cup
+&H2D5CE,Sing,5.0,5,???,Chassis,,,cup
+&H2DAAA,Sing,5.0,5,???,Chassis,,,cup
+&H2DF73,Sing,5.0,5,???,Chassis,,,gns
+&H2E453,Sing,5.0,5,???,Chassis,,,gns
+&H2E933,Sing,5.0,5,???,Chassis,,,gns
+&H2EE13,Sing,5.0,5,???,Chassis,,,gns
+&H2F2EE,Sing,5.0,5,???,Chassis,,,gns
+&H2F7CA,Sing,5.0,5,???,Chassis,,,gns
+&H2FC93,Sing,5.0,5,???,Chassis,,,cts
+&H30183,Sing,5.0,5,???,Chassis,,,cts
+&H30663,Sing,5.0,5,???,Chassis,,,cts
+&H30B3E,Sing,5.0,5,???,Chassis,,,cts
+&H3102A,Sing,5.0,5,???,Chassis,,,cts
+&H31503,Sing,5.0,5,???,Chassis,,,pta
+&H319E3,Sing,5.0,5,???,Chassis,,,pta
+&H31EC3,Sing,5.0,5,???,Chassis,,,pta
+&H323AD,Sing,5.0,5,???,Chassis,,,pta
+&H3288D,Sing,5.0,5,???,Chassis,,,pta
+&H2C25D,Sing,0.4724999964237213,0.4725,??? Weight Balance (%),Chassis,,,cup
+&H2C73D,Sing,0.4830000102519989,0.483,??? Weight Balance (%),Chassis,,,cup
+&H2CC1D,Sing,0.4724999964237213,0.4725,??? Weight Balance (%),Chassis,,,cup
+&H2D0FD,Sing,0.4726000130176544,0.4726,??? Weight Balance (%),Chassis,,,cup
+&H2D5D8,Sing,0.4726000130176544,0.4726,??? Weight Balance (%),Chassis,,,cup
+&H2DAC6,Sing,0.4726000130176544,0.4726,??? Weight Balance (%),Chassis,,,cup
+&H2DF7D,Sing,0.47029998898506165,0.4703,??? Weight Balance (%),Chassis,,,gns
+&H2E45D,Sing,0.48170000314712524,0.4817,??? Weight Balance (%),Chassis,,,gns
+&H2E93D,Sing,0.47040000557899475,0.4704,??? Weight Balance (%),Chassis,,,gns
+&H2EE1D,Sing,0.47040000557899475,0.4704,??? Weight Balance (%),Chassis,,,gns
+&H2F2F8,Sing,0.47040000557899475,0.4704,??? Weight Balance (%),Chassis,,,gns
+&H2F7E6,Sing,0.47040000557899475,0.4704,??? Weight Balance (%),Chassis,,,gns
+&H2FC9D,Sing,0.4729999899864197,0.473,??? Weight Balance (%),Chassis,,,cts
+&H3018D,Sing,0.4729999899864197,0.473,??? Weight Balance (%),Chassis,,,cts
+&H3066D,Sing,0.4731000065803528,0.4731,??? Weight Balance (%),Chassis,,,cts
+&H30B48,Sing,0.4731000065803528,0.4731,??? Weight Balance (%),Chassis,,,cts
+&H31046,Sing,0.4731000065803528,0.4731,??? Weight Balance (%),Chassis,,,cts
+&H3150D,Sing,0.46709999442100525,0.4671,??? Weight Balance (%),Chassis,,,pta
+&H319ED,Sing,0.46720001101493835,0.4672,??? Weight Balance (%),Chassis,,,pta
+&H31ECD,Sing,0.46720001101493835,0.4672,??? Weight Balance (%),Chassis,,,pta
+&H323C9,Sing,0.4674000144004822,0.4674,??? Weight Balance (%),Chassis,,,pta
+&H328A9,Sing,0.4674000144004822,0.4674,??? Weight Balance (%),Chassis,,,pta
+&H2C1DE,Long,2,2,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2C6BE,Long,2,2,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2CB9E,Long,4,4,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2D07E,Long,6,6,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2D55E,Long,8,8,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2DEFE,Long,2,2,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2E3DE,Long,2,2,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2E8BE,Long,4,4,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2ED9E,Long,6,6,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2F27E,Long,8,8,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2FC1E,Long,9,9,"Wheels (LF, RF, LR, RR)",Chassis,,,cts
+&H3010E,Long,11,11,"Wheels (LF, RF, LR, RR)",Chassis,,,cts
+&H305EE,Long,13,13,"Wheels (LF, RF, LR, RR)",Chassis,,,cts
+&H30ACE,Long,15,15,"Wheels (LF, RF, LR, RR)",Chassis,,,cts
+&H3148E,Long,18,18,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H3196E,Long,20,20,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H31E4E,Long,22,22,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H3232E,Long,24,24,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H3280E,Long,16,16,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H2C1E3,Long,3,3,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2C6C3,Long,3,3,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2CBA3,Long,5,5,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2D083,Long,7,7,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2DF03,Long,3,3,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2E3E3,Long,3,3,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2E8C3,Long,5,5,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2EDA3,Long,7,7,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H2FC23,Long,10,10,"Wheels (LF, RF, LR, RR)",Chassis,,,cts
+&H30113,Long,12,12,"Wheels (LF, RF, LR, RR)",Chassis,,,cts
+&H305F3,Long,14,14,"Wheels (LF, RF, LR, RR)",Chassis,,,cts
+&H31493,Long,19,19,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H31973,Long,21,21,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H31E53,Long,23,23,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H2DA4A,Long,1,1,"Wheels (LF, RF, LR, RR)",Chassis,,,cup
+&H2F76A,Long,1,1,"Wheels (LF, RF, LR, RR)",Chassis,,,gns
+&H30FCA,Long,1,1,"Wheels (LF, RF, LR, RR)",Chassis,,,cts
+&H3234D,Long,25,25,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H3282D,Long,17,17,"Wheels (LF, RF, LR, RR)",Chassis,,,pta
+&H2EA631,Sing,12.0,12,??? Suspension (in),Chassis,,,pta
+&H2EE56D,Sing,16.5,16.5,??? Suspension (in),Chassis,,,cup
+&H2EE5B9,Sing,18.5,18.5,??? Suspension (in),Chassis,,,cts
+&H2EA68D,Sing,11.0,11,??? Ride Height - Suspension (in),Chassis,,,cup
+&H2EE5B5,Sing,13.0,13,??? Ride Height - Suspension (in),Chassis,,,cts
+&H2EE5C5,Sing,6.5,6.5,??? Ride Height - Suspension (in),Chassis,,,pta
+&H2EA50D,Sing,0.25,0.25,??? (in),Chassis,,,pta
+&H2ED6C9,Sing,0.75,0.75,??? (in),Chassis,,,cts
+&H2EE599,Sing,2.5,2.5,??? (in),Chassis,,,cts
+&H2EA455,Sing,0.0,0,???,Chassis,,,cts
+&H2ED741,Sing,-2.0,-2,???,Chassis,,,pta
+&H2C28F,Sing,0.4000000059604645,0.4,???,Chassis,,,cup
+&H2C76F,Sing,0.4000000059604645,0.4,???,Chassis,,,cup
+&H2CC4F,Sing,0.4000000059604645,0.4,???,Chassis,,,cup
+&H2D12F,Sing,0.4000000059604645,0.4,???,Chassis,,,cup
+&H2D608,Sing,0.4000000059604645,0.4,???,Chassis,,,cup
+&H2DADA,Sing,0.4000000059604645,0.4,???,Chassis,,,cup
+&H2DFAF,Sing,0.4000000059604645,0.4,???,Chassis,,,gns
+&H2E48F,Sing,0.4000000059604645,0.4,???,Chassis,,,gns
+&H2E96F,Sing,0.4000000059604645,0.4,???,Chassis,,,gns
+&H2EE4F,Sing,0.4000000059604645,0.4,???,Chassis,,,gns
+&H2F328,Sing,0.4000000059604645,0.4,???,Chassis,,,gns
+&H2F7FA,Sing,0.4000000059604645,0.4,???,Chassis,,,gns
+&H2FCCF,Sing,0.4000000059604645,0.4,???,Chassis,,,cts
+&H301BF,Sing,0.4000000059604645,0.4,???,Chassis,,,cts
+&H3069F,Sing,0.4000000059604645,0.4,???,Chassis,,,cts
+&H30B78,Sing,0.4000000059604645,0.4,???,Chassis,,,cts
+&H3105A,Sing,0.4000000059604645,0.4,???,Chassis,,,cts
+&H3153F,Sing,0.4000000059604645,0.4,???,Chassis,,,pta
+&H31A1F,Sing,0.4000000059604645,0.4,???,Chassis,,,pta
+&H31EFF,Sing,0.4000000059604645,0.4,???,Chassis,,,pta
+&H323DD,Sing,0.4000000059604645,0.4,???,Chassis,,,pta
+&H328BD,Sing,0.4000000059604645,0.4,???,Chassis,,,pta
+&H2C299,Sing,0.4000000059604645,0.4,???,Chassis,,,cup
+&H2C779,Sing,0.4000000059604645,0.4,???,Chassis,,,cup
+&H2CC59,Sing,0.5,0.5,???,Chassis,,,cup
+&H2D139,Sing,0.3499999940395355,0.35,???,Chassis,,,cup
+&H2D612,Sing,0.3499999940395355,0.35,???,Chassis,,,cup
+&H2DAE4,Sing,0.3499999940395355,0.35,???,Chassis,,,cup
+&H2DFB9,Sing,0.4000000059604645,0.4,???,Chassis,,,gns
+&H2E499,Sing,0.4000000059604645,0.4,???,Chassis,,,gns
+&H2E979,Sing,0.5,0.5,???,Chassis,,,gns
+&H2EE59,Sing,0.3499999940395355,0.35,???,Chassis,,,gns
+&H2F332,Sing,0.3499999940395355,0.35,???,Chassis,,,gns
+&H2F804,Sing,0.3499999940395355,0.35,???,Chassis,,,gns
+&H2FCD9,Sing,0.4000000059604645,0.4,???,Chassis,,,cts
+&H301C9,Sing,0.5,0.5,???,Chassis,,,cts
+&H306A9,Sing,0.3499999940395355,0.35,???,Chassis,,,cts
+&H30B82,Sing,0.3499999940395355,0.35,???,Chassis,,,cts
+&H31064,Sing,0.3499999940395355,0.35,???,Chassis,,,cts
+&H31549,Sing,0.4000000059604645,0.4,???,Chassis,,,pta
+&H31A29,Sing,0.5,0.5,???,Chassis,,,pta
+&H31F09,Sing,0.3499999940395355,0.35,???,Chassis,,,pta
+&H323E7,Sing,0.3499999940395355,0.35,???,Chassis,,,pta
+&H328C7,Sing,0.3499999940395355,0.35,???,Chassis,,,pta
+&H2EA629,Sing,8.0,8,??? (in),Chassis,,,all
+&H2EE569,Sing,-0.5099999904632568,-0.51,??? (in),Chassis,,,all
+&H2EE58D,Sing,-0.44999998807907104,-0.45,??? (in),Chassis,,,all
+&H2EE595,Sing,-0.7200000286102295,-0.72,??? (in),Chassis,,,all
+&H2EE59D,Sing,-0.9200000166893005,-0.92,??? (in),Chassis,,,all
+&H2EE5A1,Sing,-0.800000011920929,-0.8,??? (in),Chassis,,,all
+&H2C2A3,Sing,0.0,0,???,Chassis,,,cup
+&H2C783,Sing,0.0,0,???,Chassis,,,cup
+&H2CC63,Sing,0.0,0,???,Chassis,,,cup
+&H2D143,Sing,0.0,0,???,Chassis,,,cup
+&H2D61C,Sing,0.0,0,???,Chassis,,,cup
+&H2DAEE,Sing,0.0,0,???,Chassis,,,cup
+&H2DFC3,Sing,0.0,0,???,Chassis,,,gns
+&H2E4A3,Sing,0.0,0,???,Chassis,,,gns
+&H2E983,Sing,0.0,0,???,Chassis,,,gns
+&H2EE63,Sing,0.0,0,???,Chassis,,,gns
+&H2F33C,Sing,0.0,0,???,Chassis,,,gns
+&H2F80E,Sing,0.0,0,???,Chassis,,,gns
+&H2FCE3,Sing,0.0,0,???,Chassis,,,cts
+&H301D3,Sing,0.0,0,???,Chassis,,,cts
+&H306B3,Sing,0.0,0,???,Chassis,,,cts
+&H30B8C,Sing,0.0,0,???,Chassis,,,cts
+&H3106E,Sing,0.0,0,???,Chassis,,,cts
+&H31553,Sing,0.0,0,???,Chassis,,,pta
+&H31A33,Sing,0.0,0,???,Chassis,,,pta
+&H31F13,Sing,0.0,0,???,Chassis,,,pta
+&H323F1,Sing,0.0,0,???,Chassis,,,pta
+&H328D1,Sing,0.0,0,???,Chassis,,,pta
+&H2C2BF,Sing,0.0,0,???,Chassis,,,cup
+&H2C79F,Sing,0.0,0,???,Chassis,,,cup
+&H2CC7F,Sing,0.0,0,???,Chassis,,,cup
+&H2D15F,Sing,0.0,0,???,Chassis,,,cup
+&H2D626,Sing,0.0,0,???,Chassis,,,cup
+&H2DB0A,Sing,0.0,0,???,Chassis,,,cup
+&H2DFDF,Sing,0.0,0,???,Chassis,,,gns
+&H2E4BF,Sing,0.0,0,???,Chassis,,,gns
+&H2E99F,Sing,0.0,0,???,Chassis,,,gns
+&H2EE7F,Sing,0.0,0,???,Chassis,,,gns
+&H2F346,Sing,0.0,0,???,Chassis,,,gns
+&H2F82A,Sing,0.0,0,???,Chassis,,,gns
+&H2FCFF,Sing,0.0,0,???,Chassis,,,cts
+&H301EF,Sing,0.0,0,???,Chassis,,,cts
+&H306CF,Sing,0.0,0,???,Chassis,,,cts
+&H30B96,Sing,0.0,0,???,Chassis,,,cts
+&H3108A,Sing,0.0,0,???,Chassis,,,cts
+&H3156F,Sing,0.0,0,???,Chassis,,,pta
+&H31A4F,Sing,0.0,0,???,Chassis,,,pta
+&H31F2F,Sing,0.0,0,???,Chassis,,,pta
+&H3240D,Sing,0.0,0,???,Chassis,,,pta
+&H328ED,Sing,0.0,0,???,Chassis,,,pta
+&H2C2C9,Sing,0.0,0,???,Chassis,,,cup
+&H2C7A9,Sing,0.0,0,???,Chassis,,,cup
+&H2CC89,Sing,0.0,0,???,Chassis,,,cup
+&H2D169,Sing,0.0,0,???,Chassis,,,cup
+&H2D642,Sing,0.0,0,???,Chassis,,,cup
+&H2DB14,Sing,0.0,0,???,Chassis,,,cup
+&H2DFE9,Sing,0.0,0,???,Chassis,,,gns
+&H2E4C9,Sing,0.0,0,???,Chassis,,,gns
+&H2E9A9,Sing,0.0,0,???,Chassis,,,gns
+&H2EE89,Sing,0.0,0,???,Chassis,,,gns
+&H2F362,Sing,0.0,0,???,Chassis,,,gns
+&H2F834,Sing,0.0,0,???,Chassis,,,gns
+&H2FD09,Sing,0.0,0,???,Chassis,,,cts
+&H301F9,Sing,0.0,0,???,Chassis,,,cts
+&H306D9,Sing,0.0,0,???,Chassis,,,cts
+&H30BB2,Sing,0.0,0,???,Chassis,,,cts
+&H31094,Sing,0.0,0,???,Chassis,,,cts
+&H31579,Sing,0.0,0,???,Chassis,,,pta
+&H31A59,Sing,0.0,0,???,Chassis,,,pta
+&H31F39,Sing,0.0,0,???,Chassis,,,pta
+&H32417,Sing,0.0,0,???,Chassis,,,pta
+&H328F7,Sing,0.0,0,???,Chassis,,,pta
+&H2EA515,Sing,5.0,5,??? (in),Chassis,,,all
+&H2C2D3,Sing,10000.0,10000,???,Chassis,,,cup
+&H2C7B3,Sing,10000.0,10000,???,Chassis,,,cup
+&H2CC93,Sing,21000.0,21000,???,Chassis,,,cup
+&H2D173,Sing,14000.0,14000,???,Chassis,,,cup
+&H2D64C,Sing,14000.0,14000,???,Chassis,,,cup
+&H2DB1E,Sing,10000.0,10000,???,Chassis,,,cup
+&H2DFF3,Sing,10000.0,10000,???,Chassis,,,gns
+&H2E4D3,Sing,10000.0,10000,???,Chassis,,,gns
+&H2E9B3,Sing,21000.0,21000,???,Chassis,,,gns
+&H2EE93,Sing,14000.0,14000,???,Chassis,,,gns
+&H2F36C,Sing,14000.0,14000,???,Chassis,,,gns
+&H2F83E,Sing,10000.0,10000,???,Chassis,,,gns
+&H2FD13,Sing,10000.0,10000,???,Chassis,,,cts
+&H30203,Sing,21000.0,21000,???,Chassis,,,cts
+&H306E3,Sing,14000.0,14000,???,Chassis,,,cts
+&H30BBC,Sing,14000.0,14000,???,Chassis,,,cts
+&H3109E,Sing,10000.0,10000,???,Chassis,,,cts
+&H31583,Sing,14000.0,14000,???,Chassis,,,pta
+&H31A63,Sing,16000.0,16000,???,Chassis,,,pta
+&H31F43,Sing,11000.0,11000,???,Chassis,,,pta
+&H32421,Sing,11000.0,11000,???,Chassis,,,pta
+&H32901,Sing,8000.0,8000,???,Chassis,,,pta
+&H2C2DD,Sing,1.0,1,???,Chassis,,,cup
+&H2C7BD,Sing,1.0,1,???,Chassis,,,cup
+&H2CC9D,Sing,1.0,1,???,Chassis,,,cup
+&H2D17D,Sing,1.0,1,???,Chassis,,,cup
+&H2D656,Sing,1.0,1,???,Chassis,,,cup
+&H2DB28,Sing,1.0,1,???,Chassis,,,cup
+&H2DFFD,Sing,1.0,1,???,Chassis,,,gns
+&H2E4DD,Sing,1.0,1,???,Chassis,,,gns
+&H2E9BD,Sing,1.0,1,???,Chassis,,,gns
+&H2EE9D,Sing,1.0,1,???,Chassis,,,gns
+&H2F376,Sing,1.0,1,???,Chassis,,,gns
+&H2F848,Sing,1.0,1,???,Chassis,,,gns
+&H2FD1D,Sing,1.0,1,???,Chassis,,,cts
+&H3020D,Sing,1.0,1,???,Chassis,,,cts
+&H306ED,Sing,1.0,1,???,Chassis,,,cts
+&H30BC6,Sing,1.0,1,???,Chassis,,,cts
+&H310A8,Sing,1.0,1,???,Chassis,,,cts
+&H3158D,Sing,1.0,1,???,Chassis,,,pta
+&H31A6D,Sing,1.0,1,???,Chassis,,,pta
+&H31F4D,Sing,1.0,1,???,Chassis,,,pta
+&H3242B,Sing,1.0,1,???,Chassis,,,pta
+&H3290B,Sing,1.0,1,???,Chassis,,,pta
+&H2CCAD,Long,2,2,???,Chassis,,,cup
+&H2D18D,Long,2,2,???,Chassis,,,cup
+&H2D660,Long,2,2,???,Chassis,,,cup
+&H2DB38,Long,2,2,???,Chassis,,,cup
+&H2E9CD,Long,2,2,???,Chassis,,,gns
+&H2EEAD,Long,2,2,???,Chassis,,,gns
+&H2F380,Long,2,2,???,Chassis,,,gns
+&H2F858,Long,2,2,???,Chassis,,,gns
+&H2FD2D,Long,2,2,???,Chassis,,,cts
+&H3021D,Long,2,2,???,Chassis,,,cts
+&H306FD,Long,2,2,???,Chassis,,,cts
+&H30BD0,Long,2,2,???,Chassis,,,cts
+&H310B8,Long,2,2,???,Chassis,,,cts
+&H3159D,Long,1,1,???,Chassis,,,pta
+&H31A7D,Long,1,1,???,Chassis,,,pta
+&H31F5D,Long,1,1,???,Chassis,,,pta
+&H3243B,Long,1,1,???,Chassis,,,pta
+&H3291B,Long,1,1,???,Chassis,,,pta
+&H2ECFC9,Sing,20.0,20,??? Frontal Area (sq ft),Chassis,,,pta
+&H2EE5B1,Sing,25.0,25,??? Frontal Area (sq ft),Chassis,,,cts
+&H2C2F2,Sing,0.33000001311302185,0.33,??? Drag,Chassis,,,cup
+&H2C7D2,Sing,0.4060809910297394,0.406081,??? Drag,Chassis,,,cup
+&H2CCB7,Sing,0.521431028842926,0.521431,??? Drag,Chassis,,,cup
+&H2D197,Sing,0.5414310097694397,0.541431,??? Drag,Chassis,,,cup
+&H2D670,Sing,0.5414310097694397,0.541431,??? Drag,Chassis,,,cup
+&H2DB42,Sing,0.7914310097694397,0.791431,??? Drag,Chassis,,,cup
+&H2E012,Sing,0.33000001311302185,0.33,??? Drag,Chassis,,,gns
+&H2E4F2,Sing,0.4060809910297394,0.406081,??? Drag,Chassis,,,gns
+&H2E9D7,Sing,0.521431028842926,0.521431,??? Drag,Chassis,,,gns
+&H2EEB7,Sing,0.5414310097694397,0.541431,??? Drag,Chassis,,,gns
+&H2F390,Sing,0.5414310097694397,0.541431,??? Drag,Chassis,,,gns
+&H2F862,Sing,0.7914310097694397,0.791431,??? Drag,Chassis,,,gns
+&H2FD37,Sing,0.5600000023841858,0.56,??? Drag,Chassis,,,cts
+&H30227,Sing,0.5699999928474426,0.57,??? Drag,Chassis,,,cts
+&H30707,Sing,0.5699999928474426,0.57,??? Drag,Chassis,,,cts
+&H30BE0,Sing,0.5699999928474426,0.57,??? Drag,Chassis,,,cts
+&H310C2,Sing,0.8199999928474426,0.82,??? Drag,Chassis,,,cts
+&H315A7,Sing,0.5115000009536743,0.5115,??? Drag,Chassis,,,pta
+&H31A87,Sing,0.5400000214576721,0.54,??? Drag,Chassis,,,pta
+&H31F67,Sing,0.5600000023841858,0.56,??? Drag,Chassis,,,pta
+&H32445,Sing,0.5600000023841858,0.56,??? Drag,Chassis,,,pta
+&H32925,Sing,0.8100000023841858,0.81,??? Drag,Chassis,,,pta
+&H2C2FC,Sing,-0.2199999988079071,-0.22,??? Downforce,Chassis,,,cup
+&H2C7DC,Sing,-0.18104399740695953,-0.181044,??? Downforce,Chassis,,,cup
+&H2CCC1,Sing,-0.2613690197467804,-0.261369,??? Downforce,Chassis,,,cup
+&H2D1A1,Sing,-0.28136900067329407,-0.281369,??? Downforce,Chassis,,,cup
+&H2D67A,Sing,-0.28136900067329407,-0.281369,??? Downforce,Chassis,,,cup
+&H2DB4C,Sing,-0.27136901021003723,-0.271369,??? Downforce,Chassis,,,cup
+&H2E01C,Sing,-0.2199999988079071,-0.22,??? Downforce,Chassis,,,gns
+&H2E4FC,Sing,-0.18104399740695953,-0.181044,??? Downforce,Chassis,,,gns
+&H2E9E1,Sing,-0.25136899948120117,-0.251369,??? Downforce,Chassis,,,gns
+&H2EEC1,Sing,-0.27136898040771484,-0.271369,??? Downforce,Chassis,,,gns
+&H2F39A,Sing,-0.27136898040771484,-0.271369,??? Downforce,Chassis,,,gns
+&H2F86C,Sing,-0.261368989944458,-0.261369,??? Downforce,Chassis,,,gns
+&H2FD41,Sing,-0.1599999964237213,-0.16,??? Downforce,Chassis,,,cts
+&H30231,Sing,-0.17999999225139618,-0.18,??? Downforce,Chassis,,,cts
+&H30711,Sing,-0.20000000298023224,-0.2,??? Downforce,Chassis,,,cts
+&H30BEA,Sing,-0.20000000298023224,-0.2,??? Downforce,Chassis,,,cts
+&H310CC,Sing,-0.1899999976158142,-0.19,??? Downforce,Chassis,,,cts
+&H315B1,Sing,-0.20999999344348907,-0.21,??? Downforce,Chassis,,,pta
+&H31A91,Sing,-0.22999998927116394,-0.23,??? Downforce,Chassis,,,pta
+&H31F71,Sing,-0.25,-0.25,??? Downforce,Chassis,,,pta
+&H3244F,Sing,-0.25,-0.25,??? Downforce,Chassis,,,pta
+&H3292F,Sing,-0.23999999463558197,-0.24,??? Downforce,Chassis,,,pta
+&H2C306,Sing,-0.024775000289082527,-0.024775,???,Chassis,,,cup
+&H2C7E6,Sing,-0.057280998677015305,-0.057281,???,Chassis,,,cup
+&H2CCCB,Sing,-0.018386999145150185,-0.018387,???,Chassis,,,cup
+&H2D1AB,Sing,-0.018386999145150185,-0.018387,???,Chassis,,,cup
+&H2D684,Sing,-0.018386999145150185,-0.018387,???,Chassis,,,cup
+&H2DB56,Sing,-0.018386999145150185,-0.018387,???,Chassis,,,cup
+&H2E026,Sing,-0.024775000289082527,-0.024775,???,Chassis,,,gns
+&H2E506,Sing,-0.057280998677015305,-0.057281,???,Chassis,,,gns
+&H2E9EB,Sing,-0.018386999145150185,-0.018387,???,Chassis,,,gns
+&H2EECB,Sing,-0.018386999145150185,-0.018387,???,Chassis,,,gns
+&H2F3A4,Sing,-0.018386999145150185,-0.018387,???,Chassis,,,gns
+&H2F876,Sing,-0.018386999145150185,-0.018387,???,Chassis,,,gns
+&H2FD4B,Sing,-0.05700000002980232,-0.057,???,Chassis,,,cts
+&H3023B,Sing,-0.009999999776482582,-0.01,???,Chassis,,,cts
+&H3071B,Sing,-0.009999999776482582,-0.01,???,Chassis,,,cts
+&H30BF4,Sing,-0.009999999776482582,-0.01,???,Chassis,,,cts
+&H310D6,Sing,-0.009999999776482582,-0.01,???,Chassis,,,cts
+&H315BB,Sing,0.019999999552965164,0.02,???,Chassis,,,pta
+&H31A9B,Sing,0.019999999552965164,0.02,???,Chassis,,,pta
+&H31F7B,Sing,0.019999999552965164,0.02,???,Chassis,,,pta
+&H32459,Sing,0.019999999552965164,0.02,???,Chassis,,,pta
+&H32939,Sing,0.004000000189989805,0.004,???,Chassis,,,pta
+&H2CCD5,Sing,0.0,0,???,Chassis,,,cup
+&H2D1B5,Sing,0.0,0,???,Chassis,,,cup
+&H2D68E,Sing,0.0,0,???,Chassis,,,cup
+&H2DB60,Sing,0.0,0,???,Chassis,,,cup
+&H2E9F5,Sing,0.0,0,???,Chassis,,,gns
+&H2EE565,Sing,-0.003000000026077032,-0.003,???,Chassis,,,all
+&H2EED5,Sing,0.0,0,???,Chassis,,,gns
+&H2F3AE,Sing,0.0,0,???,Chassis,,,gns
+&H2F880,Sing,0.0,0,???,Chassis,,,gns
+&H30331,Sing,0.0,0,???,Chassis,,,cts
+&H30811,Sing,0.0,0,???,Chassis,,,cts
+&H30BFE,Sing,0.0,0,???,Chassis,,,cts
+&H311CC,Sing,0.0,0,???,Chassis,,,cts
+&H31B96,Sing,0.0,0,???,Chassis,,,pta
+&H32076,Sing,0.0,0,???,Chassis,,,pta
+&H32554,Sing,0.0,0,???,Chassis,,,pta
+&H32A34,Sing,0.0,0,???,Chassis,,,pta
+&H2C402,Sing,0.05400000140070915,0.054,Front Wing Drag,Chassis,,,cup
+&H2C8E2,Sing,0.05400000140070915,0.054,Front Wing Drag,Chassis,,,cup
+&H2CCDF,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,cup
+&H2D1BF,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,cup
+&H2D698,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,cup
+&H2DB6A,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,cup
+&H2E122,Sing,0.05400000140070915,0.054,Front Wing Drag,Chassis,,,gns
+&H2E602,Sing,0.05400000140070915,0.054,Front Wing Drag,Chassis,,,gns
+&H2E9FF,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,gns
+&H2EEDF,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,gns
+&H2F3B8,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,gns
+&H2F88A,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,gns
+&H2FE41,Sing,0.05400000140070915,0.054,Front Wing Drag,Chassis,,,cts
+&H3033B,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,cts
+&H3081B,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,cts
+&H30CF4,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,cts
+&H311D6,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,cts
+&H316B6,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,pta
+&H31BA0,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,pta
+&H32080,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,pta
+&H3255E,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,pta
+&H32A3E,Sing,0.029999999329447746,0.03,Front Wing Drag,Chassis,,,pta
+&H2C40C,Sing,-0.09600000083446503,-0.096,??? Front DownForce,Chassis,,,cup
+&H2C8EC,Sing,-0.09600000083446503,-0.096,??? Front DownForce,Chassis,,,cup
+&H2CDC9,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,cup
+&H2D2A9,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,cup
+&H2D6A2,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,cup
+&H2DC54,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,cup
+&H2E12C,Sing,-0.09600000083446503,-0.096,??? Front DownForce,Chassis,,,gns
+&H2E60C,Sing,-0.09600000083446503,-0.096,??? Front DownForce,Chassis,,,gns
+&H2EAE9,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,gns
+&H2EFC9,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,gns
+&H2F3C2,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,gns
+&H2F974,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,gns
+&H2FE4B,Sing,-0.09600000083446503,-0.096,??? Front DownForce,Chassis,,,cts
+&H30345,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,cts
+&H30825,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,cts
+&H30CFE,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,cts
+&H311E0,Sing,-0.1899999976158142,-0.19,??? Front DownForce,Chassis,,,cts
+&H316C0,Sing,-0.05000000074505806,-0.05,??? Front DownForce,Chassis,,,pta
+&H31BAA,Sing,-0.05999999865889549,-0.06,??? Front DownForce,Chassis,,,pta
+&H3208A,Sing,-0.05999999865889549,-0.06,??? Front DownForce,Chassis,,,pta
+&H32568,Sing,-0.05999999865889549,-0.06,??? Front DownForce,Chassis,,,pta
+&H32A48,Sing,-0.05999999865889549,-0.06,??? Front DownForce,Chassis,,,pta
+&H2C416,Sing,0.029999999329447746,0.03,??? Front Wing Size,Chassis,,,cup
+&H2C8F6,Sing,0.029999999329447746,0.03,??? Front Wing Size,Chassis,,,cup
+&H2CDD3,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,cup
+&H2D2B3,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,cup
+&H2D78C,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,cup
+&H2DC5E,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,cup
+&H2E136,Sing,0.029999999329447746,0.03,??? Front Wing Size,Chassis,,,gns
+&H2E616,Sing,0.029999999329447746,0.03,??? Front Wing Size,Chassis,,,gns
+&H2EAF3,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,gns
+&H2EFD3,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,gns
+&H2F4AC,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,gns
+&H2F97E,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,gns
+&H2FE55,Sing,0.029999999329447746,0.03,??? Front Wing Size,Chassis,,,cts
+&H3034F,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,cts
+&H3082F,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,cts
+&H30D08,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,cts
+&H311EA,Sing,0.07999999821186066,0.08,??? Front Wing Size,Chassis,,,cts
+&H316CA,Sing,0.02500000037252903,0.025,??? Front Wing Size,Chassis,,,pta
+&H31BB4,Sing,0.02500000037252903,0.025,??? Front Wing Size,Chassis,,,pta
+&H32094,Sing,0.02500000037252903,0.025,??? Front Wing Size,Chassis,,,pta
+&H32572,Sing,0.02500000037252903,0.025,??? Front Wing Size,Chassis,,,pta
+&H32A52,Sing,0.02500000037252903,0.025,??? Front Wing Size,Chassis,,,pta
+&H2C420,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,cup
+&H2C900,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,cup
+&H2CDDD,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,cup
+&H2D2BD,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,cup
+&H2D796,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,cup
+&H2DC68,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,cup
+&H2E140,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,gns
+&H2E620,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,gns
+&H2EAFD,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,gns
+&H2EFDD,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,gns
+&H2F4B6,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,gns
+&H2F988,Sing,-0.0017000000225380063,-0.0017,Rear Wing Drag,Chassis,,,gns
+&H2FE5F,Sing,-0.002400000113993883,-0.0024,Rear Wing Drag,Chassis,,,cts
+&H30359,Sing,-0.002199999988079071,-0.0022,Rear Wing Drag,Chassis,,,cts
+&H30839,Sing,-0.002199999988079071,-0.0022,Rear Wing Drag,Chassis,,,cts
+&H30D12,Sing,-0.002199999988079071,-0.0022,Rear Wing Drag,Chassis,,,cts
+&H311F4,Sing,-0.002199999988079071,-0.0022,Rear Wing Drag,Chassis,,,cts
+&H316D4,Sing,-0.001500000013038516,-0.0015,Rear Wing Drag,Chassis,,,pta
+&H31BBE,Sing,-0.001500000013038516,-0.0015,Rear Wing Drag,Chassis,,,pta
+&H3209E,Sing,-0.001500000013038516,-0.0015,Rear Wing Drag,Chassis,,,pta
+&H3257C,Sing,-0.001500000013038516,-0.0015,Rear Wing Drag,Chassis,,,pta
+&H32A5C,Sing,-0.001500000013038516,-0.0015,Rear Wing Drag,Chassis,,,pta
+&H2C42A,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cup
+&H2C90A,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cup
+&H2CDE7,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cup
+&H2D2C7,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cup
+&H2D7A0,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cup
+&H2DC72,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cup
+&H2E14A,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,gns
+&H2E62A,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,gns
+&H2EB07,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,gns
+&H2EFE7,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,gns
+&H2F4C0,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,gns
+&H2F992,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,gns
+&H2FE69,Sing,-0.010999999940395355,-0.011,??? Downforce,Chassis,,,cts
+&H30363,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cts
+&H30843,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cts
+&H30D1C,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cts
+&H311FE,Sing,-0.009999999776482582,-0.01,??? Downforce,Chassis,,,cts
+&H316DE,Sing,-0.004999999888241291,-0.005,??? Downforce,Chassis,,,pta
+&H31BCE,Sing,-0.004999999888241291,-0.005,??? Downforce,Chassis,,,pta
+&H320AE,Sing,-0.004999999888241291,-0.005,??? Downforce,Chassis,,,pta
+&H3258C,Sing,-0.004999999888241291,-0.005,??? Downforce,Chassis,,,pta
+&H32A6C,Sing,-0.004999999888241291,-0.005,??? Downforce,Chassis,,,pta
+&H2C434,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cup
+&H2C914,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cup
+&H2CDF1,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cup
+&H2D2D1,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cup
+&H2D7AA,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cup
+&H2DC7C,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cup
+&H2E154,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,gns
+&H2E634,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,gns
+&H2EB11,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,gns
+&H2EFF1,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,gns
+&H2F4CA,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,gns
+&H2F99C,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,gns
+&H2FE73,Sing,-0.004999999888241291,-0.005,??? Rear Downforce,Chassis,,,cts
+&H30373,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cts
+&H30853,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cts
+&H30D26,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cts
+&H3120E,Sing,-0.004000000189989805,-0.004,??? Rear Downforce,Chassis,,,cts
+&H316FA,Sing,-0.003000000026077032,-0.003,??? Rear Downforce,Chassis,,,pta
+&H31BD8,Sing,-0.003000000026077032,-0.003,??? Rear Downforce,Chassis,,,pta
+&H320B8,Sing,-0.003000000026077032,-0.003,??? Rear Downforce,Chassis,,,pta
+&H32596,Sing,-0.003000000026077032,-0.003,??? Rear Downforce,Chassis,,,pta
+&H32A76,Sing,-0.003000000026077032,-0.003,??? Rear Downforce,Chassis,,,pta
+&H2C444,Sing,1.0,1,???,Chassis,,,cup
+&H2C924,Sing,1.0,1,???,Chassis,,,cup
+&H2CDFB,Sing,1.0,1,???,Chassis,,,cup
+&H2D2DB,Sing,1.0,1,???,Chassis,,,cup
+&H2D7B4,Sing,1.0,1,???,Chassis,,,cup
+&H2DC86,Sing,1.0,1,???,Chassis,,,cup
+&H2E164,Sing,1.0,1,???,Chassis,,,gns
+&H2E644,Sing,1.0,1,???,Chassis,,,gns
+&H2EB1B,Sing,1.0,1,???,Chassis,,,gns
+&H2EFFB,Sing,1.0,1,???,Chassis,,,gns
+&H2F4D4,Sing,1.0,1,???,Chassis,,,gns
+&H2F9A6,Sing,1.0,1,???,Chassis,,,gns
+&H2FE8F,Sing,1.350000023841858,1.35,???,Chassis,,,cts
+&H3037D,Sing,1.350000023841858,1.35,???,Chassis,,,cts
+&H3085D,Sing,1.350000023841858,1.35,???,Chassis,,,cts
+&H30D36,Sing,1.350000023841858,1.35,???,Chassis,,,cts
+&H31218,Sing,1.350000023841858,1.35,???,Chassis,,,cts
+&H31704,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H31BE2,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H320C2,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H325A0,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H32A80,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H2C44E,Sing,1.0,1,???,Chassis,,,cup
+&H2C92E,Sing,1.0,1,???,Chassis,,,cup
+&H2CE0B,Sing,1.0,1,???,Chassis,,,cup
+&H2D2EB,Sing,1.0,1,???,Chassis,,,cup
+&H2D7BE,Sing,1.0,1,???,Chassis,,,cup
+&H2DC96,Sing,1.0,1,???,Chassis,,,cup
+&H2E16E,Sing,1.0,1,???,Chassis,,,gns
+&H2E64E,Sing,1.0,1,???,Chassis,,,gns
+&H2EB2B,Sing,1.0,1,???,Chassis,,,gns
+&H2F00B,Sing,1.0,1,???,Chassis,,,gns
+&H2F4DE,Sing,1.0,1,???,Chassis,,,gns
+&H2F9B6,Sing,1.0,1,???,Chassis,,,gns
+&H2FE99,Sing,1.149999976158142,1.15,???,Chassis,,,cts
+&H30387,Sing,1.149999976158142,1.15,???,Chassis,,,cts
+&H30867,Sing,1.149999976158142,1.15,???,Chassis,,,cts
+&H30D40,Sing,1.149999976158142,1.15,???,Chassis,,,cts
+&H31222,Sing,1.149999976158142,1.15,???,Chassis,,,cts
+&H3170E,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H31BEC,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H320CC,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H325AA,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H32A8A,Sing,0.8999999761581421,0.9,???,Chassis,,,pta
+&H2C458,Sing,0.07666666060686111,0.07666666,???,Chassis,,,cup
+&H2C938,Sing,0.07666666060686111,0.07666666,???,Chassis,,,cup
+&H2CE15,Sing,0.0833333283662796,0.08333333,???,Chassis,,,cup
+&H2D2F5,Sing,0.09333333373069763,0.09333333,???,Chassis,,,cup
+&H2D7CE,Sing,0.09333333373069763,0.09333333,???,Chassis,,,cup
+&H2DCA0,Sing,0.09333333373069763,0.09333333,???,Chassis,,,cup
+&H2E178,Sing,0.07666666060686111,0.07666666,???,Chassis,,,gns
+&H2E658,Sing,0.07666666060686111,0.07666666,???,Chassis,,,gns
+&H2EB35,Sing,0.0833333283662796,0.08333333,???,Chassis,,,gns
+&H2F015,Sing,0.09333333373069763,0.09333333,???,Chassis,,,gns
+&H2F4EE,Sing,0.09333333373069763,0.09333333,???,Chassis,,,gns
+&H2F9C0,Sing,0.09333333373069763,0.09333333,???,Chassis,,,gns
+&H2FEA3,Sing,0.07666666060686111,0.07666666,???,Chassis,,,cts
+&H30391,Sing,0.0833333283662796,0.08333333,???,Chassis,,,cts
+&H30871,Sing,0.09333333373069763,0.09333333,???,Chassis,,,cts
+&H30D4A,Sing,0.09333333373069763,0.09333333,???,Chassis,,,cts
+&H3122C,Sing,0.09333333373069763,0.09333333,???,Chassis,,,cts
+&H31718,Sing,0.07666666060686111,0.07666666,???,Chassis,,,pta
+&H31BF6,Sing,0.0833333283662796,0.08333333,???,Chassis,,,pta
+&H320D6,Sing,0.09333333373069763,0.09333333,???,Chassis,,,pta
+&H325B4,Sing,0.09333333373069763,0.09333333,???,Chassis,,,pta
+&H32A94,Sing,0.09333333373069763,0.09333333,???,Chassis,,,pta
+&H2C462,Sing,-0.035999998450279236,-0.036,???,Chassis,,,cup
+&H2C942,Sing,-0.035999998450279236,-0.036,???,Chassis,,,cup
+&H2CE1F,Sing,-0.04399999976158142,-0.044,???,Chassis,,,cup
+&H2D2FF,Sing,-0.0560000017285347,-0.056,???,Chassis,,,cup
+&H2D7D8,Sing,-0.0560000017285347,-0.056,???,Chassis,,,cup
+&H2DCAA,Sing,-0.04399999976158142,-0.044,???,Chassis,,,cup
+&H2E182,Sing,-0.035999998450279236,-0.036,???,Chassis,,,gns
+&H2E662,Sing,-0.035999998450279236,-0.036,???,Chassis,,,gns
+&H2EB3F,Sing,-0.04399999976158142,-0.044,???,Chassis,,,gns
+&H2F01F,Sing,-0.0560000017285347,-0.056,???,Chassis,,,gns
+&H2F4F8,Sing,-0.0560000017285347,-0.056,???,Chassis,,,gns
+&H2F9CA,Sing,-0.04399999976158142,-0.044,???,Chassis,,,gns
+&H2FEAD,Sing,-0.035999998450279236,-0.036,???,Chassis,,,cts
+&H3039B,Sing,-0.04399999976158142,-0.044,???,Chassis,,,cts
+&H3087B,Sing,-0.0560000017285347,-0.056,???,Chassis,,,cts
+&H30D54,Sing,-0.0560000017285347,-0.056,???,Chassis,,,cts
+&H31236,Sing,-0.04399999976158142,-0.044,???,Chassis,,,cts
+&H31722,Sing,-0.035999998450279236,-0.036,???,Chassis,,,pta
+&H31C00,Sing,-0.04399999976158142,-0.044,???,Chassis,,,pta
+&H320E0,Sing,-0.0560000017285347,-0.056,???,Chassis,,,pta
+&H325BE,Sing,-0.0560000017285347,-0.056,???,Chassis,,,pta
+&H32A9E,Sing,-0.04399999976158142,-0.044,???,Chassis,,,pta
+&H2C46C,Sing,0.04999999701976776,0.05,???,Chassis,,,cup
+&H2C94C,Sing,0.06499999761581421,0.065,???,Chassis,,,cup
+&H2CE29,Sing,0.054999999701976776,0.055,???,Chassis,,,cup
+&H2D309,Sing,0.07000000029802322,0.07,???,Chassis,,,cup
+&H2D7E2,Sing,0.07000000029802322,0.07,???,Chassis,,,cup
+&H2DCB4,Sing,0.054999999701976776,0.055,???,Chassis,,,cup
+&H2E18C,Sing,0.04999999701976776,0.05,???,Chassis,,,gns
+&H2E66C,Sing,0.05999999865889549,0.06,???,Chassis,,,gns
+&H2EB49,Sing,0.054999999701976776,0.055,???,Chassis,,,gns
+&H2F029,Sing,0.07000000029802322,0.07,???,Chassis,,,gns
+&H2F502,Sing,0.07000000029802322,0.07,???,Chassis,,,gns
+&H2F9D4,Sing,0.054999999701976776,0.055,???,Chassis,,,gns
+&H2FEB7,Sing,0.04999999701976776,0.05,???,Chassis,,,cts
+&H303A5,Sing,0.054999999701976776,0.055,???,Chassis,,,cts
+&H30885,Sing,0.07000000029802322,0.07,???,Chassis,,,cts
+&H30D5E,Sing,0.07000000029802322,0.07,???,Chassis,,,cts
+&H31240,Sing,0.054999999701976776,0.055,???,Chassis,,,cts
+&H3172C,Sing,0.04999999701976776,0.05,???,Chassis,,,pta
+&H31C0A,Sing,0.054999999701976776,0.055,???,Chassis,,,pta
+&H320EA,Sing,0.07000000029802322,0.07,???,Chassis,,,pta
+&H325C8,Sing,0.07000000029802322,0.07,???,Chassis,,,pta
+&H32AA8,Sing,0.054999999701976776,0.055,???,Chassis,,,pta
+&H2C476,Sing,0.125,0.125,???,Chassis,,,cup
+&H2C956,Sing,0.125,0.125,???,Chassis,,,cup
+&H2CE33,Sing,0.125,0.125,???,Chassis,,,cup
+&H2D313,Sing,0.125,0.125,???,Chassis,,,cup
+&H2D7EC,Sing,0.125,0.125,???,Chassis,,,cup
+&H2DCBE,Sing,0.125,0.125,???,Chassis,,,cup
+&H2E196,Sing,0.125,0.125,???,Chassis,,,gns
+&H2E676,Sing,0.125,0.125,???,Chassis,,,gns
+&H2EB53,Sing,0.125,0.125,???,Chassis,,,gns
+&H2F033,Sing,0.125,0.125,???,Chassis,,,gns
+&H2F50C,Sing,0.125,0.125,???,Chassis,,,gns
+&H2F9DE,Sing,0.125,0.125,???,Chassis,,,gns
+&H2FEC1,Sing,0.125,0.125,???,Chassis,,,cts
+&H303AF,Sing,0.125,0.125,???,Chassis,,,cts
+&H3088F,Sing,0.125,0.125,???,Chassis,,,cts
+&H30D68,Sing,0.125,0.125,???,Chassis,,,cts
+&H3124A,Sing,0.125,0.125,???,Chassis,,,cts
+&H3173C,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H31C14,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H320F4,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H325D2,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H32AB2,Sing,0.10000000149011612,0.1,???,Chassis,,,pta
+&H2C480,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2C960,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2CE3D,Sing,0.06750000268220901,0.0675,???,Chassis,,,cup
+&H2D31D,Sing,0.06750000268220901,0.0675,???,Chassis,,,cup
+&H2D7F6,Sing,0.10000000149011612,0.1,???,Chassis,,,cup
+&H2DCC8,Sing,0.06750000268220901,0.0675,???,Chassis,,,cup
+&H2E1A0,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2E680,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2EB5D,Sing,0.06750000268220901,0.0675,???,Chassis,,,gns
+&H2F03D,Sing,0.06750000268220901,0.0675,???,Chassis,,,gns
+&H2F516,Sing,0.10000000149011612,0.1,???,Chassis,,,gns
+&H2F9E8,Sing,0.06750000268220901,0.0675,???,Chassis,,,gns
+&H2FED1,Sing,0.10000000149011612,0.1,???,Chassis,,,cts
+&H303B9,Sing,0.06750000268220901,0.0675,???,Chassis,,,cts
+&H30899,Sing,0.06750000268220901,0.0675,???,Chassis,,,cts
+&H30D72,Sing,0.10000000149011612,0.1,???,Chassis,,,cts
+&H31254,Sing,0.06750000268220901,0.0675,???,Chassis,,,cts
+&H31746,Sing,0.07500000298023224,0.075,???,Chassis,,,pta
+&H31C1E,Sing,0.07500000298023224,0.075,???,Chassis,,,pta
+&H320FE,Sing,0.07500000298023224,0.075,???,Chassis,,,pta
+&H325DC,Sing,0.07500000298023224,0.075,???,Chassis,,,pta
+&H32ABC,Sing,0.07500000298023224,0.075,???,Chassis,,,pta
+&H2C570,Sing,0.0,0,???,Chassis,,,cup
+&H2CA50,Sing,0.0,0,???,Chassis,,,cup
+&H2CF2D,Sing,0.0,0,???,Chassis,,,cup
+&H2D40D,Sing,0.0,0,???,Chassis,,,cup
+&H2D8E6,Sing,0.0,0,???,Chassis,,,cup
+&H2DDB8,Sing,0.0,0,???,Chassis,,,cup
+&H2E290,Sing,0.0,0,???,Chassis,,,gns
+&H2E770,Sing,0.0,0,???,Chassis,,,gns
+&H2EC4D,Sing,0.0,0,???,Chassis,,,gns
+&H2F12D,Sing,0.0,0,???,Chassis,,,gns
+&H2F606,Sing,0.0,0,???,Chassis,,,gns
+&H2FAD8,Sing,0.0,0,???,Chassis,,,gns
+&H2FFC1,Sing,0.0,0,???,Chassis,,,cts
+&H304A9,Sing,0.0,0,???,Chassis,,,cts
+&H30989,Sing,0.0,0,???,Chassis,,,cts
+&H30E62,Sing,0.0,0,???,Chassis,,,cts
+&H31344,Sing,0.0,0,???,Chassis,,,cts
+&H31827,Sing,0.0,0,???,Chassis,,,pta
+&H31CFF,Sing,0.0,0,???,Chassis,,,pta
+&H321DF,Sing,0.0,0,???,Chassis,,,pta
+&H326BD,Sing,0.0,0,???,Chassis,,,pta
+&H32B9D,Sing,0.0,0,???,Chassis,,,pta
+&H2C57A,Sing,10000.0,10000,???,Chassis,,,cup
+&H2CA5A,Sing,10000.0,10000,???,Chassis,,,cup
+&H2CF37,Sing,10000.0,10000,???,Chassis,,,cup
+&H2D417,Sing,10000.0,10000,???,Chassis,,,cup
+&H2D8F0,Sing,10000.0,10000,???,Chassis,,,cup
+&H2DDC2,Sing,10000.0,10000,???,Chassis,,,cup
+&H2E29A,Sing,10000.0,10000,???,Chassis,,,gns
+&H2E77A,Sing,10000.0,10000,???,Chassis,,,gns
+&H2EC57,Sing,10000.0,10000,???,Chassis,,,gns
+&H2F137,Sing,10000.0,10000,???,Chassis,,,gns
+&H2F610,Sing,10000.0,10000,???,Chassis,,,gns
+&H2FAE2,Sing,10000.0,10000,???,Chassis,,,gns
+&H2FFCB,Sing,10000.0,10000,???,Chassis,,,cts
+&H304B3,Sing,10000.0,10000,???,Chassis,,,cts
+&H30993,Sing,10000.0,10000,???,Chassis,,,cts
+&H30E6C,Sing,10000.0,10000,???,Chassis,,,cts
+&H3134E,Sing,10000.0,10000,???,Chassis,,,cts
+&H31831,Sing,10000.0,10000,???,Chassis,,,pta
+&H31D09,Sing,10000.0,10000,???,Chassis,,,pta
+&H321E9,Sing,10000.0,10000,???,Chassis,,,pta
+&H326C7,Sing,10000.0,10000,???,Chassis,,,pta
+&H32BA7,Sing,10000.0,10000,???,Chassis,,,pta
+&H2C584,Sing,-116.0,-116,???,Chassis,,,cup
+&H2CA64,Sing,-116.0,-116,???,Chassis,,,cup
+&H2CF41,Sing,-116.0,-116,???,Chassis,,,cup
+&H2D421,Sing,-116.0,-116,???,Chassis,,,cup
+&H2D8FA,Sing,-116.0,-116,???,Chassis,,,cup
+&H2DDCC,Sing,-116.0,-116,???,Chassis,,,cup
+&H2E2A4,Sing,-116.0,-116,???,Chassis,,,gns
+&H2E784,Sing,-116.0,-116,???,Chassis,,,gns
+&H2EC61,Sing,-116.0,-116,???,Chassis,,,gns
+&H2F141,Sing,-116.0,-116,???,Chassis,,,gns
+&H2F61A,Sing,-116.0,-116,???,Chassis,,,gns
+&H2FAEC,Sing,-116.0,-116,???,Chassis,,,gns
+&H2FFD5,Sing,-116.0,-116,???,Chassis,,,cts
+&H304BD,Sing,-116.0,-116,???,Chassis,,,cts
+&H3099D,Sing,-116.0,-116,???,Chassis,,,cts
+&H30E76,Sing,-116.0,-116,???,Chassis,,,cts
+&H31358,Sing,-116.0,-116,???,Chassis,,,cts
+&H3183B,Sing,-116.0,-116,???,Chassis,,,pta
+&H31D13,Sing,-116.0,-116,???,Chassis,,,pta
+&H321F3,Sing,-116.0,-116,???,Chassis,,,pta
+&H326D1,Sing,-116.0,-116,???,Chassis,,,pta
+&H32BB1,Sing,-116.0,-116,???,Chassis,,,pta
+&H2C58E,Sing,141.0,141,???,Chassis,,,cup
+&H2CA6E,Sing,141.0,141,???,Chassis,,,cup
+&H2CF4B,Sing,141.0,141,???,Chassis,,,cup
+&H2D42B,Sing,141.0,141,???,Chassis,,,cup
+&H2D904,Sing,141.0,141,???,Chassis,,,cup
+&H2DDD6,Sing,141.0,141,???,Chassis,,,cup
+&H2E2AE,Sing,141.0,141,???,Chassis,,,gns
+&H2E78E,Sing,141.0,141,???,Chassis,,,gns
+&H2EC6B,Sing,141.0,141,???,Chassis,,,gns
+&H2F14B,Sing,141.0,141,???,Chassis,,,gns
+&H2F624,Sing,141.0,141,???,Chassis,,,gns
+&H2FAF6,Sing,141.0,141,???,Chassis,,,gns
+&H2FFDF,Sing,141.0,141,???,Chassis,,,cts
+&H304C7,Sing,141.0,141,???,Chassis,,,cts
+&H309A7,Sing,141.0,141,???,Chassis,,,cts
+&H30E80,Sing,141.0,141,???,Chassis,,,cts
+&H31362,Sing,141.0,141,???,Chassis,,,cts
+&H31845,Sing,141.0,141,???,Chassis,,,pta
+&H31D1D,Sing,141.0,141,???,Chassis,,,pta
+&H321FD,Sing,141.0,141,???,Chassis,,,pta
+&H326DB,Sing,141.0,141,???,Chassis,,,pta
+&H32BBB,Sing,141.0,141,???,Chassis,,,pta
+&H2C598,Sing,0.0,0,???,Chassis,,,cup
+&H2CA78,Sing,0.0,0,???,Chassis,,,cup
+&H2CF55,Sing,0.0,0,???,Chassis,,,cup
+&H2D435,Sing,0.0,0,???,Chassis,,,cup
+&H2D90E,Sing,0.0,0,???,Chassis,,,cup
+&H2DDE0,Sing,0.0,0,???,Chassis,,,cup
+&H2E2B8,Sing,0.0,0,???,Chassis,,,gns
+&H2E798,Sing,0.0,0,???,Chassis,,,gns
+&H2EC75,Sing,0.0,0,???,Chassis,,,gns
+&H2F155,Sing,0.0,0,???,Chassis,,,gns
+&H2F62E,Sing,0.0,0,???,Chassis,,,gns
+&H2FB00,Sing,0.0,0,???,Chassis,,,gns
+&H2FFE9,Sing,0.0,0,???,Chassis,,,cts
+&H304D1,Sing,0.0,0,???,Chassis,,,cts
+&H309B1,Sing,0.0,0,???,Chassis,,,cts
+&H30E8A,Sing,0.0,0,???,Chassis,,,cts
+&H3136C,Sing,0.0,0,???,Chassis,,,cts
+&H3184F,Sing,0.0,0,???,Chassis,,,pta
+&H31D27,Sing,0.0,0,???,Chassis,,,pta
+&H32207,Sing,0.0,0,???,Chassis,,,pta
+&H326E5,Sing,0.0,0,???,Chassis,,,pta
+&H32BC5,Sing,0.0,0,???,Chassis,,,pta
+&H2C5A2,Sing,10000.0,10000,???,Chassis,,,cup
+&H2CA82,Sing,10000.0,10000,???,Chassis,,,cup
+&H2CF5F,Sing,10000.0,10000,???,Chassis,,,cup
+&H2D43F,Sing,10000.0,10000,???,Chassis,,,cup
+&H2D918,Sing,10000.0,10000,???,Chassis,,,cup
+&H2DDEA,Sing,10000.0,10000,???,Chassis,,,cup
+&H2E2C2,Sing,10000.0,10000,???,Chassis,,,gns
+&H2E7A2,Sing,10000.0,10000,???,Chassis,,,gns
+&H2EC7F,Sing,10000.0,10000,???,Chassis,,,gns
+&H2F15F,Sing,10000.0,10000,???,Chassis,,,gns
+&H2F638,Sing,10000.0,10000,???,Chassis,,,gns
+&H2FB0A,Sing,10000.0,10000,???,Chassis,,,gns
+&H2FFF3,Sing,10000.0,10000,???,Chassis,,,cts
+&H304DB,Sing,10000.0,10000,???,Chassis,,,cts
+&H309BB,Sing,10000.0,10000,???,Chassis,,,cts
+&H30E94,Sing,10000.0,10000,???,Chassis,,,cts
+&H31376,Sing,10000.0,10000,???,Chassis,,,cts
+&H31859,Sing,10000.0,10000,???,Chassis,,,pta
+&H31D31,Sing,10000.0,10000,???,Chassis,,,pta
+&H32211,Sing,10000.0,10000,???,Chassis,,,pta
+&H326EF,Sing,10000.0,10000,???,Chassis,,,pta
+&H32BCF,Sing,10000.0,10000,???,Chassis,,,pta
+&H2C5AC,Sing,-116.0,-116,???,Chassis,,,cup
+&H2CA8C,Sing,-116.0,-116,???,Chassis,,,cup
+&H2CF69,Sing,-116.0,-116,???,Chassis,,,cup
+&H2D449,Sing,-116.0,-116,???,Chassis,,,cup
+&H2D922,Sing,-116.0,-116,???,Chassis,,,cup
+&H2DDF4,Sing,-116.0,-116,???,Chassis,,,cup
+&H2E2CC,Sing,-116.0,-116,???,Chassis,,,gns
+&H2E7AC,Sing,-116.0,-116,???,Chassis,,,gns
+&H2EC89,Sing,-116.0,-116,???,Chassis,,,gns
+&H2F169,Sing,-116.0,-116,???,Chassis,,,gns
+&H2F642,Sing,-116.0,-116,???,Chassis,,,gns
+&H2FB14,Sing,-116.0,-116,???,Chassis,,,gns
+&H2FFFD,Sing,-116.0,-116,???,Chassis,,,cts
+&H304E5,Sing,-116.0,-116,???,Chassis,,,cts
+&H309C5,Sing,-116.0,-116,???,Chassis,,,cts
+&H30E9E,Sing,-116.0,-116,???,Chassis,,,cts
+&H31380,Sing,-116.0,-116,???,Chassis,,,cts
+&H31863,Sing,-116.0,-116,???,Chassis,,,pta
+&H31D3B,Sing,-116.0,-116,???,Chassis,,,pta
+&H3221B,Sing,-116.0,-116,???,Chassis,,,pta
+&H326F9,Sing,-116.0,-116,???,Chassis,,,pta
+&H32BD9,Sing,-116.0,-116,???,Chassis,,,pta
+&H2C5B6,Sing,141.0,141,???,Chassis,,,cup
+&H2CA96,Sing,141.0,141,???,Chassis,,,cup
+&H2CF73,Sing,141.0,141,???,Chassis,,,cup
+&H2D453,Sing,141.0,141,???,Chassis,,,cup
+&H2D92C,Sing,141.0,141,???,Chassis,,,cup
+&H2DDFE,Sing,141.0,141,???,Chassis,,,cup
+&H2E2D6,Sing,141.0,141,???,Chassis,,,gns
+&H2E7B6,Sing,141.0,141,???,Chassis,,,gns
+&H2EC93,Sing,141.0,141,???,Chassis,,,gns
+&H2F173,Sing,141.0,141,???,Chassis,,,gns
+&H2F64C,Sing,141.0,141,???,Chassis,,,gns
+&H2FB1E,Sing,141.0,141,???,Chassis,,,gns
+&H30007,Sing,141.0,141,???,Chassis,,,cts
+&H304EF,Sing,141.0,141,???,Chassis,,,cts
+&H309CF,Sing,141.0,141,???,Chassis,,,cts
+&H30EA8,Sing,141.0,141,???,Chassis,,,cts
+&H3138A,Sing,141.0,141,???,Chassis,,,cts
+&H3186D,Sing,141.0,141,???,Chassis,,,pta
+&H31D45,Sing,141.0,141,???,Chassis,,,pta
+&H32225,Sing,141.0,141,???,Chassis,,,pta
+&H32703,Sing,141.0,141,???,Chassis,,,pta
+&H32BE3,Sing,141.0,141,???,Chassis,,,pta
+&H2C5C0,Sing,0.0,0,???,Chassis,,,cup
+&H2CAA0,Sing,0.0,0,???,Chassis,,,cup
+&H2CF7D,Sing,0.0,0,???,Chassis,,,cup
+&H2D45D,Sing,0.0,0,???,Chassis,,,cup
+&H2D936,Sing,0.0,0,???,Chassis,,,cup
+&H2DE08,Sing,0.0,0,???,Chassis,,,cup
+&H2E2E0,Sing,0.0,0,???,Chassis,,,gns
+&H2E7C0,Sing,0.0,0,???,Chassis,,,gns
+&H2EC9D,Sing,0.0,0,???,Chassis,,,gns
+&H2F17D,Sing,0.0,0,???,Chassis,,,gns
+&H2F656,Sing,0.0,0,???,Chassis,,,gns
+&H2FB28,Sing,0.0,0,???,Chassis,,,gns
+&H30011,Sing,0.0,0,???,Chassis,,,cts
+&H304F9,Sing,0.0,0,???,Chassis,,,cts
+&H309D9,Sing,0.0,0,???,Chassis,,,cts
+&H30EB2,Sing,0.0,0,???,Chassis,,,cts
+&H31394,Sing,0.0,0,???,Chassis,,,cts
+&H31877,Sing,0.0,0,???,Chassis,,,pta
+&H31D4F,Sing,0.0,0,???,Chassis,,,pta
+&H3222F,Sing,0.0,0,???,Chassis,,,pta
+&H3270D,Sing,0.0,0,???,Chassis,,,pta
+&H32BED,Sing,0.0,0,???,Chassis,,,pta
+&H2C5CA,Sing,1.0800000429153442,1.08,???,Chassis,,,cup
+&H2CAAA,Sing,1.0800000429153442,1.08,???,Chassis,,,cup
+&H2CF87,Sing,1.0800000429153442,1.08,???,Chassis,,,cup
+&H2D467,Sing,1.0800000429153442,1.08,???,Chassis,,,cup
+&H2D940,Sing,1.0800000429153442,1.08,???,Chassis,,,cup
+&H2DE12,Sing,1.0800000429153442,1.08,???,Chassis,,,cup
+&H2E2EA,Sing,1.0800000429153442,1.08,???,Chassis,,,gns
+&H2E7CA,Sing,1.0800000429153442,1.08,???,Chassis,,,gns
+&H2ECA7,Sing,1.0800000429153442,1.08,???,Chassis,,,gns
+&H2F187,Sing,1.0800000429153442,1.08,???,Chassis,,,gns
+&H2F660,Sing,1.0800000429153442,1.08,???,Chassis,,,gns
+&H2FB32,Sing,1.0800000429153442,1.08,???,Chassis,,,gns
+&H3001B,Sing,1.0800000429153442,1.08,???,Chassis,,,cts
+&H30503,Sing,1.0800000429153442,1.08,???,Chassis,,,cts
+&H309E3,Sing,1.0800000429153442,1.08,???,Chassis,,,cts
+&H30EBC,Sing,1.0800000429153442,1.08,???,Chassis,,,cts
+&H3139E,Sing,1.0800000429153442,1.08,???,Chassis,,,cts
+&H31881,Sing,1.0800000429153442,1.08,???,Chassis,,,pta
+&H31D59,Sing,1.0800000429153442,1.08,???,Chassis,,,pta
+&H32239,Sing,1.0800000429153442,1.08,???,Chassis,,,pta
+&H32717,Sing,1.0800000429153442,1.08,???,Chassis,,,pta
+&H32BF7,Sing,1.0800000429153442,1.08,???,Chassis,,,pta
+&H2C5D4,Sing,-40.0,-40,???,Chassis,,,cup
+&H2CAB4,Sing,-40.0,-40,???,Chassis,,,cup
+&H2CF91,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D471,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D94A,Sing,-40.0,-40,???,Chassis,,,cup
+&H2DE1C,Sing,-40.0,-40,???,Chassis,,,cup
+&H2E2F4,Sing,-40.0,-40,???,Chassis,,,gns
+&H2E7D4,Sing,-40.0,-40,???,Chassis,,,gns
+&H2ECB1,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F191,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F66A,Sing,-40.0,-40,???,Chassis,,,gns
+&H2FB3C,Sing,-40.0,-40,???,Chassis,,,gns
+&H30025,Sing,-40.0,-40,???,Chassis,,,cts
+&H3050D,Sing,-40.0,-40,???,Chassis,,,cts
+&H309ED,Sing,-40.0,-40,???,Chassis,,,cts
+&H30EC6,Sing,-40.0,-40,???,Chassis,,,cts
+&H313A8,Sing,-40.0,-40,???,Chassis,,,cts
+&H3188B,Sing,-40.0,-40,???,Chassis,,,pta
+&H31D63,Sing,-40.0,-40,???,Chassis,,,pta
+&H32243,Sing,-40.0,-40,???,Chassis,,,pta
+&H32721,Sing,-40.0,-40,???,Chassis,,,pta
+&H32C01,Sing,-40.0,-40,???,Chassis,,,pta
+&H2C5DE,Sing,220.0,220,???,Chassis,,,cup
+&H2CABE,Sing,220.0,220,???,Chassis,,,cup
+&H2CF9B,Sing,220.0,220,???,Chassis,,,cup
+&H2D47B,Sing,220.0,220,???,Chassis,,,cup
+&H2D954,Sing,220.0,220,???,Chassis,,,cup
+&H2DE26,Sing,220.0,220,???,Chassis,,,cup
+&H2E2FE,Sing,220.0,220,???,Chassis,,,gns
+&H2E7DE,Sing,220.0,220,???,Chassis,,,gns
+&H2ECBB,Sing,220.0,220,???,Chassis,,,gns
+&H2F19B,Sing,220.0,220,???,Chassis,,,gns
+&H2F674,Sing,220.0,220,???,Chassis,,,gns
+&H2FB46,Sing,220.0,220,???,Chassis,,,gns
+&H3002F,Sing,220.0,220,???,Chassis,,,cts
+&H30517,Sing,220.0,220,???,Chassis,,,cts
+&H309F7,Sing,220.0,220,???,Chassis,,,cts
+&H30ED0,Sing,220.0,220,???,Chassis,,,cts
+&H313B2,Sing,220.0,220,???,Chassis,,,cts
+&H31895,Sing,220.0,220,???,Chassis,,,pta
+&H31D6D,Sing,220.0,220,???,Chassis,,,pta
+&H3224D,Sing,220.0,220,???,Chassis,,,pta
+&H3272B,Sing,220.0,220,???,Chassis,,,pta
+&H32C0B,Sing,220.0,220,???,Chassis,,,pta
+&H2C5E8,Sing,60.0,60,???,Chassis,,,cup
+&H2CAC8,Sing,60.0,60,???,Chassis,,,cup
+&H2CFA5,Sing,60.0,60,???,Chassis,,,cup
+&H2D485,Sing,60.0,60,???,Chassis,,,cup
+&H2D95E,Sing,60.0,60,???,Chassis,,,cup
+&H2DE30,Sing,60.0,60,???,Chassis,,,cup
+&H2E308,Sing,60.0,60,???,Chassis,,,gns
+&H2E7E8,Sing,60.0,60,???,Chassis,,,gns
+&H2ECC5,Sing,60.0,60,???,Chassis,,,gns
+&H2F1A5,Sing,60.0,60,???,Chassis,,,gns
+&H2F67E,Sing,60.0,60,???,Chassis,,,gns
+&H2FB50,Sing,60.0,60,???,Chassis,,,gns
+&H30039,Sing,60.0,60,???,Chassis,,,cts
+&H30521,Sing,60.0,60,???,Chassis,,,cts
+&H30A01,Sing,60.0,60,???,Chassis,,,cts
+&H30EDA,Sing,60.0,60,???,Chassis,,,cts
+&H313BC,Sing,60.0,60,???,Chassis,,,cts
+&H3189F,Sing,60.0,60,???,Chassis,,,pta
+&H31D77,Sing,60.0,60,???,Chassis,,,pta
+&H32257,Sing,60.0,60,???,Chassis,,,pta
+&H32735,Sing,60.0,60,???,Chassis,,,pta
+&H32C15,Sing,60.0,60,???,Chassis,,,pta
+&H2C5F2,Sing,127.0,127,???,Chassis,,,cup
+&H2CAD2,Sing,127.0,127,???,Chassis,,,cup
+&H2CFAF,Sing,127.0,127,???,Chassis,,,cup
+&H2D48F,Sing,127.0,127,???,Chassis,,,cup
+&H2D968,Sing,127.0,127,???,Chassis,,,cup
+&H2DE3A,Sing,127.0,127,???,Chassis,,,cup
+&H2E312,Sing,127.0,127,???,Chassis,,,gns
+&H2E7F2,Sing,127.0,127,???,Chassis,,,gns
+&H2ECCF,Sing,127.0,127,???,Chassis,,,gns
+&H2F1AF,Sing,127.0,127,???,Chassis,,,gns
+&H2F688,Sing,127.0,127,???,Chassis,,,gns
+&H2FB5A,Sing,127.0,127,???,Chassis,,,gns
+&H30043,Sing,127.0,127,???,Chassis,,,cts
+&H3052B,Sing,127.0,127,???,Chassis,,,cts
+&H30A0B,Sing,127.0,127,???,Chassis,,,cts
+&H30EE4,Sing,127.0,127,???,Chassis,,,cts
+&H313C6,Sing,127.0,127,???,Chassis,,,cts
+&H318A9,Sing,127.0,127,???,Chassis,,,pta
+&H31D81,Sing,127.0,127,???,Chassis,,,pta
+&H32261,Sing,127.0,127,???,Chassis,,,pta
+&H3273F,Sing,127.0,127,???,Chassis,,,pta
+&H32C1F,Sing,127.0,127,???,Chassis,,,pta
+&H2C5FC,Sing,-40.0,-40,???,Chassis,,,cup
+&H2CADC,Sing,-40.0,-40,???,Chassis,,,cup
+&H2CFB9,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D499,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D972,Sing,-40.0,-40,???,Chassis,,,cup
+&H2DE44,Sing,-40.0,-40,???,Chassis,,,cup
+&H2E31C,Sing,-40.0,-40,???,Chassis,,,gns
+&H2E7FC,Sing,-40.0,-40,???,Chassis,,,gns
+&H2ECD9,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F1B9,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F692,Sing,-40.0,-40,???,Chassis,,,gns
+&H2FB64,Sing,-40.0,-40,???,Chassis,,,gns
+&H3004D,Sing,-40.0,-40,???,Chassis,,,cts
+&H30535,Sing,-40.0,-40,???,Chassis,,,cts
+&H30A15,Sing,-40.0,-40,???,Chassis,,,cts
+&H30EEE,Sing,-40.0,-40,???,Chassis,,,cts
+&H313D0,Sing,-40.0,-40,???,Chassis,,,cts
+&H318B3,Sing,-40.0,-40,???,Chassis,,,pta
+&H31D8B,Sing,-40.0,-40,???,Chassis,,,pta
+&H3226B,Sing,-40.0,-40,???,Chassis,,,pta
+&H32749,Sing,-40.0,-40,???,Chassis,,,pta
+&H32C29,Sing,-40.0,-40,???,Chassis,,,pta
+&H2C606,Sing,220.0,220,???,Chassis,,,cup
+&H2CAE6,Sing,220.0,220,???,Chassis,,,cup
+&H2CFC3,Sing,220.0,220,???,Chassis,,,cup
+&H2D4A3,Sing,220.0,220,???,Chassis,,,cup
+&H2D97C,Sing,220.0,220,???,Chassis,,,cup
+&H2DE4E,Sing,220.0,220,???,Chassis,,,cup
+&H2E326,Sing,220.0,220,???,Chassis,,,gns
+&H2E806,Sing,220.0,220,???,Chassis,,,gns
+&H2ECE3,Sing,220.0,220,???,Chassis,,,gns
+&H2F1C3,Sing,220.0,220,???,Chassis,,,gns
+&H2F69C,Sing,220.0,220,???,Chassis,,,gns
+&H2FB6E,Sing,220.0,220,???,Chassis,,,gns
+&H30057,Sing,220.0,220,???,Chassis,,,cts
+&H3053F,Sing,220.0,220,???,Chassis,,,cts
+&H30A1F,Sing,220.0,220,???,Chassis,,,cts
+&H30EF8,Sing,220.0,220,???,Chassis,,,cts
+&H313DA,Sing,220.0,220,???,Chassis,,,cts
+&H318BD,Sing,220.0,220,???,Chassis,,,pta
+&H31D95,Sing,220.0,220,???,Chassis,,,pta
+&H32275,Sing,220.0,220,???,Chassis,,,pta
+&H32753,Sing,220.0,220,???,Chassis,,,pta
+&H32C33,Sing,220.0,220,???,Chassis,,,pta
+&H2C610,Sing,60.0,60,???,Chassis,,,cup
+&H2CAF0,Sing,60.0,60,???,Chassis,,,cup
+&H2CFCD,Sing,60.0,60,???,Chassis,,,cup
+&H2D4AD,Sing,60.0,60,???,Chassis,,,cup
+&H2D986,Sing,60.0,60,???,Chassis,,,cup
+&H2DE58,Sing,60.0,60,???,Chassis,,,cup
+&H2E330,Sing,60.0,60,???,Chassis,,,gns
+&H2E810,Sing,60.0,60,???,Chassis,,,gns
+&H2ECED,Sing,60.0,60,???,Chassis,,,gns
+&H2F1CD,Sing,60.0,60,???,Chassis,,,gns
+&H2F6A6,Sing,60.0,60,???,Chassis,,,gns
+&H2FB78,Sing,60.0,60,???,Chassis,,,gns
+&H30061,Sing,60.0,60,???,Chassis,,,cts
+&H30549,Sing,60.0,60,???,Chassis,,,cts
+&H30A29,Sing,60.0,60,???,Chassis,,,cts
+&H30F02,Sing,60.0,60,???,Chassis,,,cts
+&H313E4,Sing,60.0,60,???,Chassis,,,cts
+&H318C7,Sing,60.0,60,???,Chassis,,,pta
+&H31D9F,Sing,60.0,60,???,Chassis,,,pta
+&H3227F,Sing,60.0,60,???,Chassis,,,pta
+&H3275D,Sing,60.0,60,???,Chassis,,,pta
+&H32C3D,Sing,60.0,60,???,Chassis,,,pta
+&H2C61A,Sing,127.0,127,???,Chassis,,,cup
+&H2CAFA,Sing,127.0,127,???,Chassis,,,cup
+&H2CFD7,Sing,127.0,127,???,Chassis,,,cup
+&H2D4B7,Sing,127.0,127,???,Chassis,,,cup
+&H2D990,Sing,127.0,127,???,Chassis,,,cup
+&H2DE62,Sing,127.0,127,???,Chassis,,,cup
+&H2E33A,Sing,127.0,127,???,Chassis,,,gns
+&H2E81A,Sing,127.0,127,???,Chassis,,,gns
+&H2ECF7,Sing,127.0,127,???,Chassis,,,gns
+&H2F1D7,Sing,127.0,127,???,Chassis,,,gns
+&H2F6B0,Sing,127.0,127,???,Chassis,,,gns
+&H2FB82,Sing,127.0,127,???,Chassis,,,gns
+&H3006B,Sing,127.0,127,???,Chassis,,,cts
+&H30553,Sing,127.0,127,???,Chassis,,,cts
+&H30A33,Sing,127.0,127,???,Chassis,,,cts
+&H30F0C,Sing,127.0,127,???,Chassis,,,cts
+&H313EE,Sing,127.0,127,???,Chassis,,,cts
+&H318D1,Sing,127.0,127,???,Chassis,,,pta
+&H31DA9,Sing,127.0,127,???,Chassis,,,pta
+&H32289,Sing,127.0,127,???,Chassis,,,pta
+&H32767,Sing,127.0,127,???,Chassis,,,pta
+&H32C47,Sing,127.0,127,???,Chassis,,,pta
+&H2C624,Sing,-40.0,-40,???,Chassis,,,cup
+&H2CB04,Sing,-40.0,-40,???,Chassis,,,cup
+&H2CFE1,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D4C1,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D99A,Sing,-40.0,-40,???,Chassis,,,cup
+&H2DE6C,Sing,-40.0,-40,???,Chassis,,,cup
+&H2E344,Sing,-40.0,-40,???,Chassis,,,gns
+&H2E824,Sing,-40.0,-40,???,Chassis,,,gns
+&H2ED01,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F1E1,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F6BA,Sing,-40.0,-40,???,Chassis,,,gns
+&H2FB8C,Sing,-40.0,-40,???,Chassis,,,gns
+&H30075,Sing,-40.0,-40,???,Chassis,,,cts
+&H3055D,Sing,-40.0,-40,???,Chassis,,,cts
+&H30A3D,Sing,-40.0,-40,???,Chassis,,,cts
+&H30F16,Sing,-40.0,-40,???,Chassis,,,cts
+&H313F8,Sing,-40.0,-40,???,Chassis,,,cts
+&H318DB,Sing,-40.0,-40,???,Chassis,,,pta
+&H31DB3,Sing,-40.0,-40,???,Chassis,,,pta
+&H32293,Sing,-40.0,-40,???,Chassis,,,pta
+&H32771,Sing,-40.0,-40,???,Chassis,,,pta
+&H32C51,Sing,-40.0,-40,???,Chassis,,,pta
+&H2C62E,Sing,220.0,220,???,Chassis,,,cup
+&H2CB0E,Sing,220.0,220,???,Chassis,,,cup
+&H2CFEB,Sing,220.0,220,???,Chassis,,,cup
+&H2D4CB,Sing,220.0,220,???,Chassis,,,cup
+&H2D9A4,Sing,220.0,220,???,Chassis,,,cup
+&H2DE76,Sing,220.0,220,???,Chassis,,,cup
+&H2E34E,Sing,220.0,220,???,Chassis,,,gns
+&H2E82E,Sing,220.0,220,???,Chassis,,,gns
+&H2ED0B,Sing,220.0,220,???,Chassis,,,gns
+&H2F1EB,Sing,220.0,220,???,Chassis,,,gns
+&H2F6C4,Sing,220.0,220,???,Chassis,,,gns
+&H2FB96,Sing,220.0,220,???,Chassis,,,gns
+&H3007F,Sing,220.0,220,???,Chassis,,,cts
+&H30567,Sing,220.0,220,???,Chassis,,,cts
+&H30A47,Sing,220.0,220,???,Chassis,,,cts
+&H30F20,Sing,220.0,220,???,Chassis,,,cts
+&H31402,Sing,220.0,220,???,Chassis,,,cts
+&H318E5,Sing,220.0,220,???,Chassis,,,pta
+&H31DBD,Sing,220.0,220,???,Chassis,,,pta
+&H3229D,Sing,220.0,220,???,Chassis,,,pta
+&H3277B,Sing,220.0,220,???,Chassis,,,pta
+&H32C5B,Sing,220.0,220,???,Chassis,,,pta
+&H2C638,Sing,0.5,0.5,???,Chassis,,,cup
+&H2CB18,Sing,0.5,0.5,???,Chassis,,,cup
+&H2CFF5,Sing,0.5,0.5,???,Chassis,,,cup
+&H2D4D5,Sing,0.5,0.5,???,Chassis,,,cup
+&H2D9AE,Sing,0.5,0.5,???,Chassis,,,cup
+&H2DE80,Sing,0.5,0.5,???,Chassis,,,cup
+&H2E358,Sing,0.5,0.5,???,Chassis,,,gns
+&H2E838,Sing,0.5,0.5,???,Chassis,,,gns
+&H2ED15,Sing,0.5,0.5,???,Chassis,,,gns
+&H2F1F5,Sing,0.5,0.5,???,Chassis,,,gns
+&H2F6CE,Sing,0.5,0.5,???,Chassis,,,gns
+&H2FBA0,Sing,0.5,0.5,???,Chassis,,,gns
+&H30089,Sing,0.5,0.5,???,Chassis,,,cts
+&H30571,Sing,0.5,0.5,???,Chassis,,,cts
+&H30A51,Sing,0.5,0.5,???,Chassis,,,cts
+&H30F2A,Sing,0.5,0.5,???,Chassis,,,cts
+&H3140C,Sing,0.5,0.5,???,Chassis,,,cts
+&H318EF,Sing,0.5,0.5,???,Chassis,,,pta
+&H31DC7,Sing,0.5,0.5,???,Chassis,,,pta
+&H322A7,Sing,0.5,0.5,???,Chassis,,,pta
+&H32785,Sing,0.5,0.5,???,Chassis,,,pta
+&H32C65,Sing,0.5,0.5,???,Chassis,,,pta
+&H2C642,Sing,6.5,6.5,???,Chassis,,,cup
+&H2CB22,Sing,6.5,6.5,???,Chassis,,,cup
+&H2CFFF,Sing,6.5,6.5,???,Chassis,,,cup
+&H2D4DF,Sing,6.5,6.5,???,Chassis,,,cup
+&H2D9B8,Sing,6.5,6.5,???,Chassis,,,cup
+&H2DE8A,Sing,6.5,6.5,???,Chassis,,,cup
+&H2E362,Sing,6.5,6.5,???,Chassis,,,gns
+&H2E842,Sing,6.5,6.5,???,Chassis,,,gns
+&H2ED1F,Sing,6.5,6.5,???,Chassis,,,gns
+&H2F1FF,Sing,6.5,6.5,???,Chassis,,,gns
+&H2F6D8,Sing,6.5,6.5,???,Chassis,,,gns
+&H2FBAA,Sing,6.5,6.5,???,Chassis,,,gns
+&H30093,Sing,6.5,6.5,???,Chassis,,,cts
+&H3057B,Sing,6.5,6.5,???,Chassis,,,cts
+&H30A5B,Sing,6.5,6.5,???,Chassis,,,cts
+&H30F34,Sing,6.5,6.5,???,Chassis,,,cts
+&H31416,Sing,6.5,6.5,???,Chassis,,,cts
+&H318F9,Sing,6.5,6.5,???,Chassis,,,pta
+&H31DD1,Sing,6.5,6.5,???,Chassis,,,pta
+&H322B1,Sing,6.5,6.5,???,Chassis,,,pta
+&H3278F,Sing,6.5,6.5,???,Chassis,,,pta
+&H32C6F,Sing,6.5,6.5,???,Chassis,,,pta
+&H2C64C,Sing,-40.0,-40,???,Chassis,,,cup
+&H2CB2C,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D009,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D4E9,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D9C2,Sing,-40.0,-40,???,Chassis,,,cup
+&H2DE94,Sing,-40.0,-40,???,Chassis,,,cup
+&H2E36C,Sing,-40.0,-40,???,Chassis,,,gns
+&H2E84C,Sing,-40.0,-40,???,Chassis,,,gns
+&H2ED29,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F209,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F6E2,Sing,-40.0,-40,???,Chassis,,,gns
+&H2FBB4,Sing,-40.0,-40,???,Chassis,,,gns
+&H3009D,Sing,-40.0,-40,???,Chassis,,,cts
+&H30585,Sing,-40.0,-40,???,Chassis,,,cts
+&H30A65,Sing,-40.0,-40,???,Chassis,,,cts
+&H30F3E,Sing,-40.0,-40,???,Chassis,,,cts
+&H31420,Sing,-40.0,-40,???,Chassis,,,cts
+&H31903,Sing,-40.0,-40,???,Chassis,,,pta
+&H31DDB,Sing,-40.0,-40,???,Chassis,,,pta
+&H322BB,Sing,-40.0,-40,???,Chassis,,,pta
+&H32799,Sing,-40.0,-40,???,Chassis,,,pta
+&H32C79,Sing,-40.0,-40,???,Chassis,,,pta
+&H2C656,Sing,220.0,220,???,Chassis,,,cup
+&H2CB36,Sing,220.0,220,???,Chassis,,,cup
+&H2D013,Sing,220.0,220,???,Chassis,,,cup
+&H2D4F3,Sing,220.0,220,???,Chassis,,,cup
+&H2D9CC,Sing,220.0,220,???,Chassis,,,cup
+&H2DE9E,Sing,220.0,220,???,Chassis,,,cup
+&H2E376,Sing,220.0,220,???,Chassis,,,gns
+&H2E856,Sing,220.0,220,???,Chassis,,,gns
+&H2ED33,Sing,220.0,220,???,Chassis,,,gns
+&H2F213,Sing,220.0,220,???,Chassis,,,gns
+&H2F6EC,Sing,220.0,220,???,Chassis,,,gns
+&H2FBBE,Sing,220.0,220,???,Chassis,,,gns
+&H300A7,Sing,220.0,220,???,Chassis,,,cts
+&H3058F,Sing,220.0,220,???,Chassis,,,cts
+&H30A6F,Sing,220.0,220,???,Chassis,,,cts
+&H30F48,Sing,220.0,220,???,Chassis,,,cts
+&H3142A,Sing,220.0,220,???,Chassis,,,cts
+&H3190D,Sing,220.0,220,???,Chassis,,,pta
+&H31DE5,Sing,220.0,220,???,Chassis,,,pta
+&H322C5,Sing,220.0,220,???,Chassis,,,pta
+&H327A3,Sing,220.0,220,???,Chassis,,,pta
+&H32C83,Sing,220.0,220,???,Chassis,,,pta
+&H2C660,Sing,0.0,0,???,Chassis,,,cup
+&H2CB40,Sing,0.0,0,???,Chassis,,,cup
+&H2D01D,Sing,0.0,0,???,Chassis,,,cup
+&H2D4FD,Sing,0.0,0,???,Chassis,,,cup
+&H2D9D6,Sing,0.0,0,???,Chassis,,,cup
+&H2DEA8,Sing,0.0,0,???,Chassis,,,cup
+&H2E380,Sing,0.0,0,???,Chassis,,,gns
+&H2E860,Sing,0.0,0,???,Chassis,,,gns
+&H2ED3D,Sing,0.0,0,???,Chassis,,,gns
+&H2F21D,Sing,0.0,0,???,Chassis,,,gns
+&H2F6F6,Sing,0.0,0,???,Chassis,,,gns
+&H2FBC8,Sing,0.0,0,???,Chassis,,,gns
+&H300B1,Sing,0.0,0,???,Chassis,,,cts
+&H30599,Sing,0.0,0,???,Chassis,,,cts
+&H30A79,Sing,0.0,0,???,Chassis,,,cts
+&H30F52,Sing,0.0,0,???,Chassis,,,cts
+&H31434,Sing,0.0,0,???,Chassis,,,cts
+&H31917,Sing,0.0,0,???,Chassis,,,pta
+&H31DEF,Sing,0.0,0,???,Chassis,,,pta
+&H322CF,Sing,0.0,0,???,Chassis,,,pta
+&H327AD,Sing,0.0,0,???,Chassis,,,pta
+&H32C8D,Sing,0.0,0,???,Chassis,,,pta
+&H2C66A,Sing,27.0,27,???,Chassis,,,cup
+&H2CB4A,Sing,27.0,27,???,Chassis,,,cup
+&H2D027,Sing,27.0,27,???,Chassis,,,cup
+&H2D507,Sing,27.0,27,???,Chassis,,,cup
+&H2D9E0,Sing,27.0,27,???,Chassis,,,cup
+&H2DEB2,Sing,27.0,27,???,Chassis,,,cup
+&H2E38A,Sing,27.0,27,???,Chassis,,,gns
+&H2E86A,Sing,27.0,27,???,Chassis,,,gns
+&H2ED47,Sing,27.0,27,???,Chassis,,,gns
+&H2F227,Sing,27.0,27,???,Chassis,,,gns
+&H2F700,Sing,27.0,27,???,Chassis,,,gns
+&H2FBD2,Sing,27.0,27,???,Chassis,,,gns
+&H300BB,Sing,27.0,27,???,Chassis,,,cts
+&H305A3,Sing,27.0,27,???,Chassis,,,cts
+&H30A83,Sing,27.0,27,???,Chassis,,,cts
+&H30F5C,Sing,27.0,27,???,Chassis,,,cts
+&H3143E,Sing,27.0,27,???,Chassis,,,cts
+&H31921,Sing,27.0,27,???,Chassis,,,pta
+&H31DF9,Sing,27.0,27,???,Chassis,,,pta
+&H322D9,Sing,27.0,27,???,Chassis,,,pta
+&H327B7,Sing,27.0,27,???,Chassis,,,pta
+&H32C97,Sing,27.0,27,???,Chassis,,,pta
+&H2C674,Sing,-40.0,-40,???,Chassis,,,cup
+&H2CB54,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D031,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D511,Sing,-40.0,-40,???,Chassis,,,cup
+&H2D9EA,Sing,-40.0,-40,???,Chassis,,,cup
+&H2DEBC,Sing,-40.0,-40,???,Chassis,,,cup
+&H2E394,Sing,-40.0,-40,???,Chassis,,,gns
+&H2E874,Sing,-40.0,-40,???,Chassis,,,gns
+&H2ED51,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F231,Sing,-40.0,-40,???,Chassis,,,gns
+&H2F70A,Sing,-40.0,-40,???,Chassis,,,gns
+&H2FBDC,Sing,-40.0,-40,???,Chassis,,,gns
+&H300C5,Sing,-40.0,-40,???,Chassis,,,cts
+&H305AD,Sing,-40.0,-40,???,Chassis,,,cts
+&H30A8D,Sing,-40.0,-40,???,Chassis,,,cts
+&H30F66,Sing,-40.0,-40,???,Chassis,,,cts
+&H31448,Sing,-40.0,-40,???,Chassis,,,cts
+&H3192B,Sing,-40.0,-40,???,Chassis,,,pta
+&H31E03,Sing,-40.0,-40,???,Chassis,,,pta
+&H322E3,Sing,-40.0,-40,???,Chassis,,,pta
+&H327C1,Sing,-40.0,-40,???,Chassis,,,pta
+&H32CA1,Sing,-40.0,-40,???,Chassis,,,pta
+&H2C67E,Sing,220.0,220,???,Chassis,,,cup
+&H2CB5E,Sing,220.0,220,???,Chassis,,,cup
+&H2D03B,Sing,220.0,220,???,Chassis,,,cup
+&H2D51B,Sing,220.0,220,???,Chassis,,,cup
+&H2D9F4,Sing,220.0,220,???,Chassis,,,cup
+&H2DEC6,Sing,220.0,220,???,Chassis,,,cup
+&H2E39E,Sing,220.0,220,???,Chassis,,,gns
+&H2E87E,Sing,220.0,220,???,Chassis,,,gns
+&H2ED5B,Sing,220.0,220,???,Chassis,,,gns
+&H2F23B,Sing,220.0,220,???,Chassis,,,gns
+&H2F714,Sing,220.0,220,???,Chassis,,,gns
+&H2FBE6,Sing,220.0,220,???,Chassis,,,gns
+&H300CF,Sing,220.0,220,???,Chassis,,,cts
+&H305B7,Sing,220.0,220,???,Chassis,,,cts
+&H30A97,Sing,220.0,220,???,Chassis,,,cts
+&H30F70,Sing,220.0,220,???,Chassis,,,cts
+&H31452,Sing,220.0,220,???,Chassis,,,cts
+&H31935,Sing,220.0,220,???,Chassis,,,pta
+&H31E0D,Sing,220.0,220,???,Chassis,,,pta
+&H322ED,Sing,220.0,220,???,Chassis,,,pta
+&H327CB,Sing,220.0,220,???,Chassis,,,pta
+&H32CAB,Sing,220.0,220,???,Chassis,,,pta
+&H2C688,Long,-1,-1,???,Chassis,,,cup
+&H2CB68,Long,-1,-1,???,Chassis,,,cup
+&H2D045,Long,-1,-1,???,Chassis,,,cup
+&H2D525,Long,-1,-1,???,Chassis,,,cup
+&H2D9FE,Long,-1,-1,???,Chassis,,,cup
+&H2DED0,Long,-1,-1,???,Chassis,,,cup
+&H2E3A8,Long,-1,-1,???,Chassis,,,gns
+&H2E888,Long,-1,-1,???,Chassis,,,gns
+&H2ED65,Long,-1,-1,???,Chassis,,,gns
+&H2F245,Long,-1,-1,???,Chassis,,,gns
+&H2F71E,Long,-1,-1,???,Chassis,,,gns
+&H2FBF0,Long,-1,-1,???,Chassis,,,gns
+&H300D9,Long,65,65,???,Chassis,,,cts
+&H305C1,Long,-1,-1,???,Chassis,,,cts
+&H30AA1,Long,-1,-1,???,Chassis,,,cts
+&H30F7A,Long,-1,-1,???,Chassis,,,cts
+&H3145C,Long,-1,-1,???,Chassis,,,cts
+&H3193F,Long,-1,-1,???,Chassis,,,pta
+&H31E17,Long,-1,-1,???,Chassis,,,pta
+&H322F7,Long,-1,-1,???,Chassis,,,pta
+&H327D5,Long,-1,-1,???,Chassis,,,pta
+&H32CB5,Long,-1,-1,???,Chassis,,,pta
+&H2C692,Sing,3800.0,3800,???,Chassis,,,cup
+&H2CB72,Sing,3800.0,3800,???,Chassis,,,cup
+&H2D04F,Sing,3800.0,3800,???,Chassis,,,cup
+&H2D52F,Sing,3800.0,3800,???,Chassis,,,cup
+&H2DA08,Sing,5000.0,5000,???,Chassis,,,cup
+&H2DEDA,Sing,3800.0,3800,???,Chassis,,,cup
+&H2E3B2,Sing,3800.0,3800,???,Chassis,,,gns
+&H2E892,Sing,3800.0,3800,???,Chassis,,,gns
+&H2ED6F,Sing,3800.0,3800,???,Chassis,,,gns
+&H2F24F,Sing,3800.0,3800,???,Chassis,,,gns
+&H2F728,Sing,5000.0,5000,???,Chassis,,,gns
+&H2FBFA,Sing,3800.0,3800,???,Chassis,,,gns
+&H300E3,Sing,3800.0,3800,???,Chassis,,,cts
+&H305CB,Sing,3800.0,3800,???,Chassis,,,cts
+&H30AAB,Sing,3800.0,3800,???,Chassis,,,cts
+&H30F84,Sing,5000.0,5000,???,Chassis,,,cts
+&H31466,Sing,3800.0,3800,???,Chassis,,,cts
+&H31949,Sing,3600.0,3600,???,Chassis,,,pta
+&H31E21,Sing,3600.0,3600,???,Chassis,,,pta
+&H32301,Sing,3600.0,3600,???,Chassis,,,pta
+&H327DF,Sing,3600.0,3600,???,Chassis,,,pta
+&H32CBF,Sing,3600.0,3600,???,Chassis,,,pta
+&H2EE561,Sing,0.08730000257492065,0.0873,???,Chassis,,,all
+&H2EE589,Sing,0.13779999315738678,0.1378,???,Chassis,,,all

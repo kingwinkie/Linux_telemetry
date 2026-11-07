@@ -1,0 +1,449 @@
+Address,Type,Value,Original,Label,Module,ID,Field,Series
+&H2EECA9,Sing,0.0,0,RPM-1,Engine,,,cup
+&H2EED19,Sing,0.0,0,RPM-1,Engine,,,cup
+&H2EED89,Sing,0.0,0,RPM-1,Engine,,,cup
+&H2EEDF9,Sing,0.0,0,RPM-1,Engine,,,cup
+&H2EEE69,Sing,0.0,0,RPM-1,Engine,,,cup
+&H2EEED9,Sing,0.0,0,RPM-1,Engine,,,gns
+&H2EEF49,Sing,0.0,0,RPM-1,Engine,,,gns
+&H2EEFB9,Sing,0.0,0,RPM-1,Engine,,,gns
+&H2EF029,Sing,0.0,0,RPM-1,Engine,,,gns
+&H2EF099,Sing,0.0,0,RPM-1,Engine,,,gns
+&H2EF109,Sing,0.0,0,RPM-1,Engine,,,cts
+&H2EF179,Sing,0.0,0,RPM-1,Engine,,,cts
+&H2EF1E9,Sing,0.0,0,RPM-1,Engine,,,cts
+&H2EF259,Sing,0.0,0,RPM-1,Engine,,,pta
+&H2EF2C9,Sing,0.0,0,RPM-1,Engine,,,pta
+&H2EF339,Sing,0.0,0,RPM-1,Engine,,,pta
+&H2EECAD,Sing,120.0,120,Torque-1,Engine,,,cup
+&H2EED1D,Sing,120.0,120,Torque-1,Engine,,,cup
+&H2EED8D,Sing,100.0,100,Torque-1,Engine,,,cup
+&H2EEDFD,Sing,100.0,100,Torque-1,Engine,,,cup
+&H2EEE6D,Sing,110.0,110,Torque-1,Engine,,,cup
+&H2EEEDD,Sing,110.0,110,Torque-1,Engine,,,gns
+&H2EEF4D,Sing,110.0,110,Torque-1,Engine,,,gns
+&H2EEFBD,Sing,90.0,90,Torque-1,Engine,,,gns
+&H2EF02D,Sing,90.0,90,Torque-1,Engine,,,gns
+&H2EF09D,Sing,110.0,110,Torque-1,Engine,,,gns
+&H2EF10D,Sing,115.0,115,Torque-1,Engine,,,cts
+&H2EF17D,Sing,115.0,115,Torque-1,Engine,,,cts
+&H2EF1ED,Sing,110.0,110,Torque-1,Engine,,,cts
+&H2EF25D,Sing,100.0,100,Torque-1,Engine,,,pta
+&H2EF2CD,Sing,100.0,100,Torque-1,Engine,,,pta
+&H2EF33D,Sing,110.0,110,Torque-1,Engine,,,pta
+&H2EECB1,Sing,7000.0,7000,RPM-2,Engine,,,cup
+&H2EED21,Sing,7000.0,7000,RPM-2,Engine,,,cup
+&H2EED91,Sing,4200.0,4200,RPM-2,Engine,,,cup
+&H2EEE01,Sing,4200.0,4200,RPM-2,Engine,,,cup
+&H2EEE71,Sing,5500.0,5500,RPM-2,Engine,,,cup
+&H2EEEE1,Sing,6200.0,6200,RPM-2,Engine,,,gns
+&H2EEF51,Sing,6200.0,6200,RPM-2,Engine,,,gns
+&H2EEFC1,Sing,4400.0,4400,RPM-2,Engine,,,gns
+&H2EF031,Sing,4400.0,4400,RPM-2,Engine,,,gns
+&H2EF0A1,Sing,5500.0,5500,RPM-2,Engine,,,gns
+&H2EF111,Sing,5700.0,5700,RPM-2,Engine,,,cts
+&H2EF181,Sing,5700.0,5700,RPM-2,Engine,,,cts
+&H2EF1F1,Sing,5500.0,5500,RPM-2,Engine,,,cts
+&H2EF261,Sing,6200.0,6200,RPM-2,Engine,,,pta
+&H2EF2D1,Sing,6200.0,6200,RPM-2,Engine,,,pta
+&H2EF341,Sing,5500.0,5500,RPM-2,Engine,,,pta
+&H2EECB5,Sing,231.0,231,Torque-2,Engine,,,cup
+&H2EED25,Sing,231.0,231,Torque-2,Engine,,,cup
+&H2EED95,Sing,168.0,168,Torque-2,Engine,,,cup
+&H2EEE05,Sing,168.0,168,Torque-2,Engine,,,cup
+&H2EEE75,Sing,215.0,215,Torque-2,Engine,,,cup
+&H2EEEE5,Sing,225.0,225,Torque-2,Engine,,,gns
+&H2EEF55,Sing,225.0,225,Torque-2,Engine,,,gns
+&H2EEFC5,Sing,155.0,155,Torque-2,Engine,,,gns
+&H2EF035,Sing,155.0,155,Torque-2,Engine,,,gns
+&H2EF0A5,Sing,215.0,215,Torque-2,Engine,,,gns
+&H2EF115,Sing,210.0,210,Torque-2,Engine,,,cts
+&H2EF185,Sing,210.0,210,Torque-2,Engine,,,cts
+&H2EF1F5,Sing,215.0,215,Torque-2,Engine,,,cts
+&H2EF265,Sing,230.0,230,Torque-2,Engine,,,pta
+&H2EF2D5,Sing,230.0,230,Torque-2,Engine,,,pta
+&H2EF345,Sing,215.0,215,Torque-2,Engine,,,pta
+&H2EECB9,Sing,9000.0,9000,RPM-3,Engine,,,cup
+&H2EED29,Sing,9000.0,9000,RPM-3,Engine,,,cup
+&H2EED99,Sing,9000.0,9000,RPM-3,Engine,,,cup
+&H2EEE09,Sing,9000.0,9000,RPM-3,Engine,,,cup
+&H2EEE79,Sing,8500.0,8500,RPM-3,Engine,,,cup
+&H2EEEE9,Sing,9000.0,9000,RPM-3,Engine,,,gns
+&H2EEF59,Sing,9000.0,9000,RPM-3,Engine,,,gns
+&H2EEFC9,Sing,9000.0,9000,RPM-3,Engine,,,gns
+&H2EF039,Sing,9000.0,9000,RPM-3,Engine,,,gns
+&H2EF0A9,Sing,8500.0,8500,RPM-3,Engine,,,gns
+&H2EF119,Sing,9000.0,9000,RPM-3,Engine,,,cts
+&H2EF189,Sing,9000.0,9000,RPM-3,Engine,,,cts
+&H2EF1F9,Sing,8500.0,8500,RPM-3,Engine,,,cts
+&H2EF269,Sing,7800.0,7800,RPM-3,Engine,,,pta
+&H2EF2D9,Sing,7800.0,7800,RPM-3,Engine,,,pta
+&H2EF349,Sing,8500.0,8500,RPM-3,Engine,,,pta
+&H2EECBD,Sing,202.0,202,Torque-3,Engine,,,cup
+&H2EED2D,Sing,202.0,202,Torque-3,Engine,,,cup
+&H2EED9D,Sing,80.0,80,Torque-3,Engine,,,cup
+&H2EEE0D,Sing,80.0,80,Torque-3,Engine,,,cup
+&H2EEE7D,Sing,185.0,185,Torque-3,Engine,,,cup
+&H2EEEED,Sing,160.0,160,Torque-3,Engine,,,gns
+&H2EEF5D,Sing,160.0,160,Torque-3,Engine,,,gns
+&H2EEFCD,Sing,60.0,60,Torque-3,Engine,,,gns
+&H2EF03D,Sing,60.0,60,Torque-3,Engine,,,gns
+&H2EF0AD,Sing,185.0,185,Torque-3,Engine,,,gns
+&H2EF11D,Sing,160.0,160,Torque-3,Engine,,,cts
+&H2EF18D,Sing,160.0,160,Torque-3,Engine,,,cts
+&H2EF1FD,Sing,185.0,185,Torque-3,Engine,,,cts
+&H2EF26D,Sing,205.0,205,Torque-3,Engine,,,pta
+&H2EF2DD,Sing,205.0,205,Torque-3,Engine,,,pta
+&H2EF34D,Sing,185.0,185,Torque-3,Engine,,,pta
+&H2EECC1,Sing,3.308000087738037,3.308,Stroke (in),Engine,,,cup
+&H2EED31,Sing,3.308000087738037,3.308,Stroke (in),Engine,,,cup
+&H2EEDA1,Sing,3.5,3.5,Stroke (in),Engine,,,cup
+&H2EEE11,Sing,3.5,3.5,Stroke (in),Engine,,,cup
+&H2EEE81,Sing,4.0,4,Stroke (in),Engine,,,cup
+&H2EEEF1,Sing,3.308000087738037,3.308,Stroke (in),Engine,,,gns
+&H2EEF61,Sing,3.308000087738037,3.308,Stroke (in),Engine,,,gns
+&H2EEFD1,Sing,3.5,3.5,Stroke (in),Engine,,,gns
+&H2EF041,Sing,3.5,3.5,Stroke (in),Engine,,,gns
+&H2EF0B1,Sing,4.0,4,Stroke (in),Engine,,,gns
+&H2EF121,Sing,3.308000087738037,3.308,Stroke (in),Engine,,,cts
+&H2EF191,Sing,3.308000087738037,3.308,Stroke (in),Engine,,,cts
+&H2EF201,Sing,4.0,4,Stroke (in),Engine,,,cts
+&H2EF271,Sing,3.308000087738037,3.308,Stroke (in),Engine,,,pta
+&H2EF2E1,Sing,3.308000087738037,3.308,Stroke (in),Engine,,,pta
+&H2EF351,Sing,4.0,4,Stroke (in),Engine,,,pta
+&H2EECC5,Sing,358.0,358,C.I.D.,Engine,,,cup
+&H2EED35,Sing,358.0,358,C.I.D.,Engine,,,cup
+&H2EEDA5,Sing,358.0,358,C.I.D.,Engine,,,cup
+&H2EEE15,Sing,358.0,358,C.I.D.,Engine,,,cup
+&H2EEE85,Sing,450.0,450,C.I.D.,Engine,,,cup
+&H2EEEF5,Sing,358.0,358,C.I.D.,Engine,,,gns
+&H2EEF65,Sing,358.0,358,C.I.D.,Engine,,,gns
+&H2EEFD5,Sing,358.0,358,C.I.D.,Engine,,,gns
+&H2EF045,Sing,358.0,358,C.I.D.,Engine,,,gns
+&H2EF0B5,Sing,450.0,450,C.I.D.,Engine,,,gns
+&H2EF125,Sing,358.0,358,C.I.D.,Engine,,,cts
+&H2EF195,Sing,358.0,358,C.I.D.,Engine,,,cts
+&H2EF205,Sing,450.0,450,C.I.D.,Engine,,,cts
+&H2EF275,Sing,358.0,358,C.I.D.,Engine,,,pta
+&H2EF2E5,Sing,358.0,358,C.I.D.,Engine,,,pta
+&H2EF355,Sing,450.0,450,C.I.D.,Engine,,,pta
+&H2EECC9,Sing,8.0,8,Cylinders,Engine,,,cup
+&H2EED39,Sing,8.0,8,Cylinders,Engine,,,cup
+&H2EEDA9,Sing,8.0,8,Cylinders,Engine,,,cup
+&H2EEE19,Sing,8.0,8,Cylinders,Engine,,,cup
+&H2EEE89,Sing,8.0,8,Cylinders,Engine,,,cup
+&H2EEEF9,Sing,8.0,8,Cylinders,Engine,,,gns
+&H2EEF69,Sing,8.0,8,Cylinders,Engine,,,gns
+&H2EEFD9,Sing,8.0,8,Cylinders,Engine,,,gns
+&H2EF049,Sing,8.0,8,Cylinders,Engine,,,gns
+&H2EF0B9,Sing,8.0,8,Cylinders,Engine,,,gns
+&H2EF129,Sing,8.0,8,Cylinders,Engine,,,cts
+&H2EF199,Sing,8.0,8,Cylinders,Engine,,,cts
+&H2EF209,Sing,8.0,8,Cylinders,Engine,,,cts
+&H2EF279,Sing,8.0,8,Cylinders,Engine,,,pta
+&H2EF2E9,Sing,8.0,8,Cylinders,Engine,,,pta
+&H2EF359,Sing,8.0,8,Cylinders,Engine,,,pta
+&H2EECCD,Sing,1.0,1,# Intake Valves,Engine,,,cup
+&H2EED3D,Sing,1.0,1,# Intake Valves,Engine,,,cup
+&H2EEDAD,Sing,1.0,1,# Intake Valves,Engine,,,cup
+&H2EEE1D,Sing,1.0,1,# Intake Valves,Engine,,,cup
+&H2EEE8D,Sing,1.0,1,# Intake Valves,Engine,,,cup
+&H2EEEFD,Sing,1.0,1,# Intake Valves,Engine,,,gns
+&H2EEF6D,Sing,1.0,1,# Intake Valves,Engine,,,gns
+&H2EEFDD,Sing,1.0,1,# Intake Valves,Engine,,,gns
+&H2EF04D,Sing,1.0,1,# Intake Valves,Engine,,,gns
+&H2EF0BD,Sing,1.0,1,# Intake Valves,Engine,,,gns
+&H2EF12D,Sing,1.0,1,# Intake Valves,Engine,,,cts
+&H2EF19D,Sing,1.0,1,# Intake Valves,Engine,,,cts
+&H2EF20D,Sing,1.0,1,# Intake Valves,Engine,,,cts
+&H2EF27D,Sing,1.0,1,# Intake Valves,Engine,,,pta
+&H2EF2ED,Sing,1.0,1,# Intake Valves,Engine,,,pta
+&H2EF35D,Sing,1.0,1,# Intake Valves,Engine,,,pta
+&H2EECD1,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,cup
+&H2EED41,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,cup
+&H2EEDB1,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,cup
+&H2EEE21,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,cup
+&H2EEE91,Sing,2.200000047683716,2.2,Intake Valve Size,Engine,,,cup
+&H2EEF01,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,gns
+&H2EEF71,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,gns
+&H2EEFE1,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,gns
+&H2EF051,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,gns
+&H2EF0C1,Sing,2.200000047683716,2.2,Intake Valve Size,Engine,,,gns
+&H2EF131,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,cts
+&H2EF1A1,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,cts
+&H2EF211,Sing,2.200000047683716,2.2,Intake Valve Size,Engine,,,cts
+&H2EF281,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,pta
+&H2EF2F1,Sing,2.069999933242798,2.07,Intake Valve Size,Engine,,,pta
+&H2EF361,Sing,2.200000047683716,2.2,Intake Valve Size,Engine,,,pta
+&H2EECD5,Sing,9300.0,9300,Redline,Engine,,,cup
+&H2EED45,Sing,9300.0,9300,Redline,Engine,,,cup
+&H2EEDB5,Sing,7300.0,7300,Redline,Engine,,,cup
+&H2EEE25,Sing,7300.0,7300,Redline,Engine,,,cup
+&H2EEE95,Sing,9300.0,9300,Redline,Engine,,,cup
+&H2EEF05,Sing,9400.0,9400,Redline,Engine,,,gns
+&H2EEF75,Sing,9300.0,9300,Redline,Engine,,,gns
+&H2EEFE5,Sing,7300.0,7300,Redline,Engine,,,gns
+&H2EF055,Sing,7300.0,7300,Redline,Engine,,,gns
+&H2EF0C5,Sing,9300.0,9300,Redline,Engine,,,gns
+&H2EF135,Sing,9300.0,9300,Redline,Engine,,,cts
+&H2EF1A5,Sing,9300.0,9300,Redline,Engine,,,cts
+&H2EF215,Sing,9300.0,9300,Redline,Engine,,,cts
+&H2EF285,Sing,8200.0,8200,Redline,Engine,,,pta
+&H2EF2F5,Sing,8200.0,8200,Redline,Engine,,,pta
+&H2EF365,Sing,8200.0,8200,Redline,Engine,,,pta
+&H2EECD9,Sing,815.0,815,??? Peak Power,Engine,,,cup
+&H2EED49,Sing,815.0,815,??? Peak Power,Engine,,,cup
+&H2EEDB9,Sing,435.0,435,??? Peak Power,Engine,,,cup
+&H2EEE29,Sing,435.0,435,??? Peak Power,Engine,,,cup
+&H2EEE99,Sing,900.0,900,??? Peak Power,Engine,,,cup
+&H2EEF09,Sing,725.0,725,??? Peak Power,Engine,,,gns
+&H2EEF79,Sing,725.0,725,??? Peak Power,Engine,,,gns
+&H2EEFE9,Sing,403.0,403,??? Peak Power,Engine,,,gns
+&H2EF059,Sing,403.0,403,??? Peak Power,Engine,,,gns
+&H2EF0C9,Sing,700.0,700,??? Peak Power,Engine,,,gns
+&H2EF139,Sing,670.0,670,??? Peak Power,Engine,,,cts
+&H2EF1A9,Sing,670.0,670,??? Peak Power,Engine,,,cts
+&H2EF219,Sing,700.0,700,??? Peak Power,Engine,,,cts
+&H2EF289,Sing,680.0,680,??? Peak Power,Engine,,,pta
+&H2EF2F9,Sing,680.0,680,??? Peak Power,Engine,,,pta
+&H2EF369,Sing,700.0,700,??? Peak Power,Engine,,,pta
+&H2EECDD,Sing,19.0,19,???,Engine,,,cup
+&H2EED4D,Sing,19.0,19,???,Engine,,,cup
+&H2EEDBD,Sing,19.0,19,???,Engine,,,cup
+&H2EEE2D,Sing,19.0,19,???,Engine,,,cup
+&H2EEE9D,Sing,19.0,19,???,Engine,,,cup
+&H2EEF0D,Sing,19.0,19,???,Engine,,,gns
+&H2EEF7D,Sing,19.0,19,???,Engine,,,gns
+&H2EEFED,Sing,19.0,19,???,Engine,,,gns
+&H2EF05D,Sing,19.0,19,???,Engine,,,gns
+&H2EF0CD,Sing,19.0,19,???,Engine,,,gns
+&H2EF13D,Sing,19.0,19,???,Engine,,,cts
+&H2EF1AD,Sing,19.0,19,???,Engine,,,cts
+&H2EF21D,Sing,19.0,19,???,Engine,,,cts
+&H2EF28D,Sing,19.0,19,???,Engine,,,pta
+&H2EF2FD,Sing,19.0,19,???,Engine,,,pta
+&H2EF36D,Sing,19.0,19,???,Engine,,,pta
+&H2EECE1,Sing,18.0,18,??? Race/Qual,Engine,,,cup
+&H2EED51,Sing,12.0,12,??? Race/Qual,Engine,,,cup
+&H2EEDC1,Sing,18.0,18,??? Race/Qual,Engine,,,cup
+&H2EEE31,Sing,12.0,12,??? Race/Qual,Engine,,,cup
+&H2EEEA1,Sing,12.0,12,??? Race/Qual,Engine,,,cup
+&H2EEF11,Sing,18.0,18,??? Race/Qual,Engine,,,gns
+&H2EEF81,Sing,12.0,12,??? Race/Qual,Engine,,,gns
+&H2EEFF1,Sing,18.0,18,??? Race/Qual,Engine,,,gns
+&H2EF061,Sing,12.0,12,??? Race/Qual,Engine,,,gns
+&H2EF0D1,Sing,12.0,12,??? Race/Qual,Engine,,,gns
+&H2EF141,Sing,18.0,18,??? Race/Qual,Engine,,,cts
+&H2EF1B1,Sing,12.0,12,??? Race/Qual,Engine,,,cts
+&H2EF221,Sing,12.0,12,??? Race/Qual,Engine,,,cts
+&H2EF291,Sing,18.0,18,??? Race/Qual,Engine,,,pta
+&H2EF301,Sing,12.0,12,??? Race/Qual,Engine,,,pta
+&H2EF371,Sing,12.0,12,??? Race/Qual,Engine,,,pta
+&H2EECE5,Sing,450.0,450,Oil Cooling,Engine,,,cup
+&H2EED55,Sing,450.0,450,Oil Cooling,Engine,,,cup
+&H2EEDC5,Sing,350.0,350,Oil Cooling,Engine,,,cup
+&H2EEE35,Sing,350.0,350,Oil Cooling,Engine,,,cup
+&H2EEEA5,Sing,1050.0,1050,Oil Cooling,Engine,,,cup
+&H2EEF15,Sing,450.0,450,Oil Cooling,Engine,,,gns
+&H2EEF85,Sing,450.0,450,Oil Cooling,Engine,,,gns
+&H2EEFF5,Sing,350.0,350,Oil Cooling,Engine,,,gns
+&H2EF065,Sing,350.0,350,Oil Cooling,Engine,,,gns
+&H2EF0D5,Sing,1050.0,1050,Oil Cooling,Engine,,,gns
+&H2EF145,Sing,450.0,450,Oil Cooling,Engine,,,cts
+&H2EF1B5,Sing,450.0,450,Oil Cooling,Engine,,,cts
+&H2EF225,Sing,1050.0,1050,Oil Cooling,Engine,,,cts
+&H2EF295,Sing,450.0,450,Oil Cooling,Engine,,,pta
+&H2EF305,Sing,450.0,450,Oil Cooling,Engine,,,pta
+&H2EF375,Sing,1050.0,1050,Oil Cooling,Engine,,,pta
+&H2EECE9,Sing,1390.0,1390,Water cooling,Engine,,,cup
+&H2EED59,Sing,1390.0,1390,Water cooling,Engine,,,cup
+&H2EEDC9,Sing,1000.0,1000,Water cooling,Engine,,,cup
+&H2EEE39,Sing,1000.0,1000,Water cooling,Engine,,,cup
+&H2EEEA9,Sing,1900.0,1900,Water cooling,Engine,,,cup
+&H2EEF19,Sing,1390.0,1390,Water cooling,Engine,,,gns
+&H2EEF89,Sing,1390.0,1390,Water cooling,Engine,,,gns
+&H2EEFF9,Sing,1000.0,1000,Water cooling,Engine,,,gns
+&H2EF069,Sing,1000.0,1000,Water cooling,Engine,,,gns
+&H2EF0D9,Sing,1900.0,1900,Water cooling,Engine,,,gns
+&H2EF149,Sing,1390.0,1390,Water cooling,Engine,,,cts
+&H2EF1B9,Sing,1390.0,1390,Water cooling,Engine,,,cts
+&H2EF229,Sing,1900.0,1900,Water cooling,Engine,,,cts
+&H2EF299,Sing,1390.0,1390,Water cooling,Engine,,,pta
+&H2EF309,Sing,1390.0,1390,Water cooling,Engine,,,pta
+&H2EF379,Sing,1900.0,1900,Water cooling,Engine,,,pta
+&H2EECED,Long,4,4,Gears,Engine,,,cup
+&H2EED5D,Long,4,4,Gears,Engine,,,cup
+&H2EEDCD,Long,4,4,Gears,Engine,,,cup
+&H2EEE3D,Long,4,4,Gears,Engine,,,cup
+&H2EEEAD,Long,4,4,Gears,Engine,,,cup
+&H2EEF1D,Long,4,4,Gears,Engine,,,gns
+&H2EEF8D,Long,4,4,Gears,Engine,,,gns
+&H2EEFFD,Long,4,4,Gears,Engine,,,gns
+&H2EF06D,Long,4,4,Gears,Engine,,,gns
+&H2EF0DD,Long,4,4,Gears,Engine,,,gns
+&H2EF14D,Long,4,4,Gears,Engine,,,cts
+&H2EF1BD,Long,4,4,Gears,Engine,,,cts
+&H2EF22D,Long,4,4,Gears,Engine,,,cts
+&H2EF29D,Long,6,6,Gears,Engine,,,pta
+&H2EF30D,Long,6,6,Gears,Engine,,,pta
+&H2EF37D,Long,6,6,Gears,Engine,,,pta
+&H2EECF1,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,cup
+&H2EED61,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,cup
+&H2EEDD1,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,cup
+&H2EEE41,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,cup
+&H2EEEB1,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,cup
+&H2EEF21,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,gns
+&H2EEF91,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,gns
+&H2EF001,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,gns
+&H2EF071,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,gns
+&H2EF0E1,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,gns
+&H2EF151,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,cts
+&H2EF1C1,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,cts
+&H2EF231,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,cts
+&H2EF2A1,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,pta
+&H2EF311,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,pta
+&H2EF381,Sing,-2.7333333492279053,-2.733333,AI Reverse,Engine,,,pta
+&H2EECF5,Sing,0.0,0,AI Neutral,Engine,,,cup
+&H2EED65,Sing,0.0,0,AI Neutral,Engine,,,cup
+&H2EEDD5,Sing,0.0,0,AI Neutral,Engine,,,cup
+&H2EEE45,Sing,0.0,0,AI Neutral,Engine,,,cup
+&H2EEEB5,Sing,0.0,0,AI Neutral,Engine,,,cup
+&H2EEF25,Sing,0.0,0,AI Neutral,Engine,,,gns
+&H2EEF95,Sing,0.0,0,AI Neutral,Engine,,,gns
+&H2EF005,Sing,0.0,0,AI Neutral,Engine,,,gns
+&H2EF075,Sing,0.0,0,AI Neutral,Engine,,,gns
+&H2EF0E5,Sing,0.0,0,AI Neutral,Engine,,,gns
+&H2EF155,Sing,0.0,0,AI Neutral,Engine,,,cts
+&H2EF1C5,Sing,0.0,0,AI Neutral,Engine,,,cts
+&H2EF235,Sing,0.0,0,AI Neutral,Engine,,,cts
+&H2EF2A5,Sing,0.0,0,AI Neutral,Engine,,,pta
+&H2EF315,Sing,0.0,0,AI Neutral,Engine,,,pta
+&H2EF385,Sing,0.0,0,AI Neutral,Engine,,,pta
+&H2EECF9,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,cup
+&H2EED69,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,cup
+&H2EEDD9,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,cup
+&H2EEE49,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,cup
+&H2EEEB9,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,cup
+&H2EEF29,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,gns
+&H2EEF99,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,gns
+&H2EF009,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,gns
+&H2EF079,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,gns
+&H2EF0E9,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,gns
+&H2EF159,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,cts
+&H2EF1C9,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,cts
+&H2EF239,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,cts
+&H2EF2A9,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,pta
+&H2EF319,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,pta
+&H2EF389,Sing,2.7333333492279053,2.733333,AI 1st Gear,Engine,,,pta
+&H2EECFD,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,cup
+&H2EED6D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,cup
+&H2EEDDD,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,cup
+&H2EEE4D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,cup
+&H2EEEBD,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,cup
+&H2EEF2D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,gns
+&H2EEF9D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,gns
+&H2EF00D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,gns
+&H2EF07D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,gns
+&H2EF0ED,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,gns
+&H2EF15D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,cts
+&H2EF1CD,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,cts
+&H2EF23D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,cts
+&H2EF2AD,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,pta
+&H2EF31D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,pta
+&H2EF38D,Sing,1.7999999523162842,1.8,AI 2nd Gear,Engine,,,pta
+&H2EED01,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,cup
+&H2EED71,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,cup
+&H2EEDE1,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,cup
+&H2EEE51,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,cup
+&H2EEEC1,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,cup
+&H2EEF31,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,gns
+&H2EEFA1,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,gns
+&H2EF011,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,gns
+&H2EF081,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,gns
+&H2EF0F1,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,gns
+&H2EF161,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,cts
+&H2EF1D1,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,cts
+&H2EF241,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,cts
+&H2EF2B1,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,pta
+&H2EF321,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,pta
+&H2EF391,Sing,1.3333333730697632,1.333333,AI 3rd Gear,Engine,,,pta
+&H2EED05,Sing,1.0,1,AI 4th Gear,Engine,,,cup
+&H2EED75,Sing,1.0,1,AI 4th Gear,Engine,,,cup
+&H2EEDE5,Sing,1.0,1,AI 4th Gear,Engine,,,cup
+&H2EEE55,Sing,1.0,1,AI 4th Gear,Engine,,,cup
+&H2EEEC5,Sing,1.0,1,AI 4th Gear,Engine,,,cup
+&H2EEF35,Sing,1.0,1,AI 4th Gear,Engine,,,gns
+&H2EEFA5,Sing,1.0,1,AI 4th Gear,Engine,,,gns
+&H2EF015,Sing,1.0,1,AI 4th Gear,Engine,,,gns
+&H2EF085,Sing,1.0,1,AI 4th Gear,Engine,,,gns
+&H2EF0F5,Sing,1.0,1,AI 4th Gear,Engine,,,gns
+&H2EF165,Sing,1.0,1,AI 4th Gear,Engine,,,cts
+&H2EF1D5,Sing,1.0,1,AI 4th Gear,Engine,,,cts
+&H2EF245,Sing,1.0,1,AI 4th Gear,Engine,,,cts
+&H2EF2B5,Sing,1.0,1,AI 4th Gear,Engine,,,pta
+&H2EF325,Sing,1.0,1,AI 4th Gear,Engine,,,pta
+&H2EF395,Sing,1.0,1,AI 4th Gear,Engine,,,pta
+&H2EED09,Sing,1.0,1,AI 5th Gear,Engine,,,cup
+&H2EED79,Sing,1.0,1,AI 5th Gear,Engine,,,cup
+&H2EEDE9,Sing,1.0,1,AI 5th Gear,Engine,,,cup
+&H2EEE59,Sing,1.0,1,AI 5th Gear,Engine,,,cup
+&H2EEEC9,Sing,1.0,1,AI 5th Gear,Engine,,,cup
+&H2EEF39,Sing,1.0,1,AI 5th Gear,Engine,,,gns
+&H2EEFA9,Sing,1.0,1,AI 5th Gear,Engine,,,gns
+&H2EF019,Sing,1.0,1,AI 5th Gear,Engine,,,gns
+&H2EF089,Sing,1.0,1,AI 5th Gear,Engine,,,gns
+&H2EF0F9,Sing,1.0,1,AI 5th Gear,Engine,,,gns
+&H2EF169,Sing,1.0,1,AI 5th Gear,Engine,,,cts
+&H2EF1D9,Sing,1.0,1,AI 5th Gear,Engine,,,cts
+&H2EF249,Sing,1.0,1,AI 5th Gear,Engine,,,cts
+&H2EF2B9,Sing,1.0,1,AI 5th Gear,Engine,,,pta
+&H2EF329,Sing,1.0,1,AI 5th Gear,Engine,,,pta
+&H2EF399,Sing,1.0,1,AI 5th Gear,Engine,,,pta
+&H2EED0D,Sing,1.0,1,AI 6th Gear,Engine,,,cup
+&H2EED7D,Sing,1.0,1,AI 6th Gear,Engine,,,cup
+&H2EEDED,Sing,1.0,1,AI 6th Gear,Engine,,,cup
+&H2EEE5D,Sing,1.0,1,AI 6th Gear,Engine,,,cup
+&H2EEECD,Sing,1.0,1,AI 6th Gear,Engine,,,cup
+&H2EEF3D,Sing,1.0,1,AI 6th Gear,Engine,,,gns
+&H2EEFAD,Sing,1.0,1,AI 6th Gear,Engine,,,gns
+&H2EF01D,Sing,1.0,1,AI 6th Gear,Engine,,,gns
+&H2EF08D,Sing,1.0,1,AI 6th Gear,Engine,,,gns
+&H2EF0FD,Sing,1.0,1,AI 6th Gear,Engine,,,gns
+&H2EF16D,Sing,1.0,1,AI 6th Gear,Engine,,,cts
+&H2EF1DD,Sing,1.0,1,AI 6th Gear,Engine,,,cts
+&H2EF24D,Sing,1.0,1,AI 6th Gear,Engine,,,cts
+&H2EF2BD,Sing,1.0,1,AI 6th Gear,Engine,,,pta
+&H2EF32D,Sing,1.0,1,AI 6th Gear,Engine,,,pta
+&H2EF39D,Sing,1.0,1,AI 6th Gear,Engine,,,pta
+&H2EED11,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,cup
+&H2EED81,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,cup
+&H2EEDF1,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,cup
+&H2EEE61,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,cup
+&H2EEED1,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,cup
+&H2EEF41,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,gns
+&H2EEFB1,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,gns
+&H2EF021,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,gns
+&H2EF091,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,gns
+&H2EF101,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,gns
+&H2EF171,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,cts
+&H2EF1E1,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,cts
+&H2EF251,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,cts
+&H2EF2C1,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,pta
+&H2EF331,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,pta
+&H2EF3A1,Sing,3.4375,3.4375,AI Diff Ratio,Engine,,,pta
+&H2EED15,Long,1,1,??? Qual/Race,Engine,,,cup
+&H2EED85,Long,0,0,??? Qual/Race,Engine,,,cup
+&H2EEDF5,Long,1,1,??? Qual/Race,Engine,,,cup
+&H2EEE65,Long,0,0,??? Qual/Race,Engine,,,cup
+&H2EEED5,Long,0,0,??? Qual/Race,Engine,,,cup
+&H2EEF45,Long,1,1,??? Qual/Race,Engine,,,gns
+&H2EEFB5,Long,0,0,??? Qual/Race,Engine,,,gns
+&H2EF025,Long,1,1,??? Qual/Race,Engine,,,gns
+&H2EF095,Long,0,0,??? Qual/Race,Engine,,,gns
+&H2EF105,Long,0,0,??? Qual/Race,Engine,,,gns
+&H2EF175,Long,1,1,??? Qual/Race,Engine,,,cts
+&H2EF1E5,Long,0,0,??? Qual/Race,Engine,,,cts
+&H2EF255,Long,0,0,??? Qual/Race,Engine,,,cts
+&H2EF2C5,Long,1,1,??? Qual/Race,Engine,,,pta
+&H2EF335,Long,0,0,??? Qual/Race,Engine,,,pta
+&H2EF3A5,Long,0,0,??? Qual/Race,Engine,,,pta
